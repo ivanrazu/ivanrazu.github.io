@@ -1,5 +1,5 @@
 ---
-title: "Master Thesis"
+title: "Master Thesis. Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection"
 collection: publications
 permalink: /publication/2014-10-01-paper-title-number-2
 excerpt: 
