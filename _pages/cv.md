@@ -15,25 +15,33 @@ Education
 * M.S. in Mathematics, East Tennesse State University, 2014
 * Ph.D in Mathematics, University of Pittsburgh, 2020 (expected)
 
-Work experience
+Teaching experience
 ======
-* Summer 2015: Research Assistant
-  * University of Pittsburgh
-  * Supervisor: dr. J Rubin
+* Teaching Assistant, Fall 2014-Present Day.
+Department of Mathematics, University of Pittsburgh.
 
-* Fall 2014-present: Teaching Assistant 
-  * University of Pittsburgh
-  * Duties included: Merging pull requests
-  * Supervisor: Dr. D.Swigon.
+* Instructor, Summer 2017.
+  * Department of Mathematics, University of Pittsburgh. 
+  * Course Taught: Calculus II. 
+
+* Instructor, Summer 2015.
+  * Department of Mathematics, University of Pittsburgh. 
+  * Course Taught: Differential Equations. 
+
+* Instructor, Fall 2013 $-$ Summer 2014.
+  * Department of Mathematics, East Tennessee State University (ETSU). 
+  * Courses Taught: Calculus I, Calculus II.
   
-Skills
+Computer Skills
 ======
-* Matlab
-* Latex
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Java
+* Languages 
+  * Java
+  * Matlab
+* Tools
+  * XPP-Aut
+  * Mathematica
+  * Maple
+  * LaTeX
 
 Publications
 ======
@@ -53,7 +61,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
