@@ -18,9 +18,8 @@ Education
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * University of Pittsburgh
+  * Supervisor: dr. J Rubin
 
 * Fall 2014-present: Teaching Assistant 
   * University of Pittsburgh
@@ -29,23 +28,19 @@ Work experience
   
 Skills
 ======
-* Mathlab
+* Matlab
 * Latex
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Java
 
 Publications
 ======
 
-  
-* I. Ramirez Zuniga, J.E. Rubin, D. Swigon, and G. Clermont. Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response. Submitted at Journal of Theoretical Biology (May 2018).
-
-* I. Ramirez Zuniga, [Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection (2014). Electronic Theses and Dissertations. Paper 2425.] (https://dc.etsu.edu/etd/2425)
-
-* R. Brady, C. Pulez, I. Ramirez Zuniga, K. Larripa, M.S. Olufsen. A coupled model exploring the cardiovascular response to an acute inflammatory event. Proc 5th Int Conf Comp Math Biomed Eng (CMBE) 2017.
-
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Talks
 ======
