@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Ivan Ramirez Zuniga"
   avatar           : "profile_pic.png"
-  bio              : "PhD student in the Mathematics department."
-  location         : "University of Pittsburgh"
+  bio              : "PhD student in the Mathematics department at University of Pittsburgh."
+  location         : "University of Pittsburgh, 317 Thackeray Hall"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "ivr3@pitt.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://ivanrazu.github.io/"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
