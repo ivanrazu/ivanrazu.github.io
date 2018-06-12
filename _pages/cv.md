@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+You can find a pdf version of my CV [here]()
 Education
 ======
 * B.S. in Mathematics, Universidad de Costa Rica, 2010.
