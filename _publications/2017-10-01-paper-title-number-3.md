@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "A coupled model exploring the cardiovascular response to an acute inflammatory event"
 collection: publications
 permalink: /publication/2017-10-01-paper-title-number-3
 excerpt: 
