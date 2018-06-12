@@ -18,8 +18,9 @@ Education
 Teaching experience
 ======
 * Teaching Assistant, Fall 2014-Present Day.
-Department of Mathematics, University of Pittsburgh.
-
+  * Department of Mathematics, University of Pittsburgh.
+  * Courses Taught: Calculus I, Calculus II.
+  
 * Instructor, Summer 2017.
   * Department of Mathematics, University of Pittsburgh. 
   * Course Taught: Calculus II. 
