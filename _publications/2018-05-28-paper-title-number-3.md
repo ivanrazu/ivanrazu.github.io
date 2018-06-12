@@ -1,5 +1,5 @@
 ---
-title: 
+title: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response"
 collection: publications
 permalink: 2018-05-28-paper-title-number-3
 excerpt: 
