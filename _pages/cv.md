@@ -33,17 +33,6 @@ Teaching experience
   * Department of Mathematics, East Tennessee State University (ETSU). 
   * Courses Taught: Calculus I, Calculus II.
   
-Computer Skills
-======
-* Languages 
-  * Java
-  * Matlab
-* Tools
-  * XPP-Aut
-  * Mathematica
-  * Maple
-  * LaTeX
-
 Publications
 ======
 
@@ -56,6 +45,32 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  
+ Attended Cnferences and Workshopes
+ ======
+ * Workshop :Host-pathogens dynamics at The Mathematical Biosciences Institute (MBI),Columbus OH, February 2018.
+ *  Parameter Estimation and Uncertainty Quantification for Dynamical Systems, University of Pittsburgh, Pittsburgh PA, March 2017
+ * SIAM Conference on the Life Sciences 2016, Boston, MA July 2016.
+ *  Mathematics Research Communities - Mathematics in Physiology and Medicine, Snowbird Utah, June 2016.
+ *  Summer School, The Joint 2015 CAMBAM-MBI-NIMBioS'' in Nonlinear Dynamics in Biological Systems at McGill University, Montreal, June 2015.
+ *  Tutorial Parameter Estimation for Dynamic Biological Models'' at NIMBioS, May 2014.
+ *  SEARCDE 2013, University of Tennessee, Knoxville, TN, September 2013.
+ *  The Society for Mathematical Biology Annual Meeting and Conference,organized by NIMBioS and the University of Tennessee, Knoxville, TN 2012.
+ *  Math Schools for Latin America and the Caribbean, EMALCA, organized by University of Costa Rica, 2012.
+ * International Symposium of Applied Methods on Sciences, SIMAC, organized by University of Costa Rica, 2012.
+ * International Symposium of Applied Methods on Sciences, SIMAC, organized by University of Costa Rica, 2008.
+ * International Symposium of Applied Methods on Sciences, SIMAC, organized by University of Costa Rica, 2006.
+ 
+Computer Skills
+======
+* Languages 
+  * Java
+  * Matlab
+* Tools
+  * XPP-Aut
+  * Mathematica
+  * Maple
+  * LaTeX
   
 Teaching
 ======
