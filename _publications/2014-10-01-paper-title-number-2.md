@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2014-10-01-paper-title-number-2
 excerpt: 
 date: 2014-10-01
-venue: 
+venue: Electronic Theses and Dissertations
 paperurl:
 citation: 'I. Ramirez Zuniga. (2014). &quot;Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection .&quot; <i> Electronic Theses and Dissertations. Paper 2425.</i>.'
 ---
