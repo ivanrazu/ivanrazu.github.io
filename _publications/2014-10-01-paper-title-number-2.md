@@ -9,5 +9,5 @@ paperurl:
 citation: 'I. Ramirez Zuniga. (2014). &quot;Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection .&quot; <i> Electronic Theses and Dissertations. Paper 2425.</i>.'
 ---
 
-I. Ramirez Zuniga. (2014). "Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection." <i>Electronic Theses and Dissertations. Paper 2425.</i>. [pdf](https://dc.etsu.edu/etd/2425)
+I. Ramirez Zuniga. (2014). "Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection." <i>Electronic Theses and Dissertations. Paper 2425.</i> [pdf](https://dc.etsu.edu/etd/2425)
 
