@@ -1,7 +1,7 @@
 ---
 title: "Master Thesis. Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection"
 collection: publications
-permalink: /publication/2014-10-01-paper-title-number-2
+permalink: /publication/2014-10-01-paper-title-number-1
 excerpt: 
 date: 2014-10-01
 venue: Electronic Theses and Dissertations
