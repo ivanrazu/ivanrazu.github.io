@@ -30,8 +30,9 @@ Talks
   {% endfor %}</ul>
   
   
- Attended Cnferences, Workshops, and Summer Schools
- ======
+Attended Cnferences, Workshops, and Summer Schools
+======
+
  * Workshop :Host-pathogens dynamics at The Mathematical Biosciences Institute (MBI),Columbus OH, February 2018.
  *  Parameter Estimation and Uncertainty Quantification for Dynamical Systems, University of Pittsburgh, Pittsburgh PA, March 2017
  * SIAM Conference on the Life Sciences 2016, Boston, MA July 2016.
