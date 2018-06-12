@@ -13,28 +13,28 @@ You can find an updated and more complete pdf version of my CV [here](https://gi
 
 
 Education
-======
+=====
 * Ph.D in Mathematics, University of Pittsburgh, 2020 (expected).
 * M.S. in Mathematics, East Tennesse State University, 2014.
 * B.S. in Mathematics, Universidad de Costa Rica, 2010.
 
   
 Publications
-======
+=====
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Talks
-======
+=====
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
   
-Attended Cnferences, Workshops, and Summer Schools
-======
+Attended Conferences, Workshops, and Summer Schools
+=====
 
  * Workshop :Host-pathogens dynamics at The Mathematical Biosciences Institute (MBI),Columbus OH, February 2018.
  *  Parameter Estimation and Uncertainty Quantification for Dynamical Systems, University of Pittsburgh, Pittsburgh PA, March 2017
@@ -50,7 +50,7 @@ Attended Cnferences, Workshops, and Summer Schools
  * International Symposium of Applied Methods on Sciences, SIMAC, organized by University of Costa Rica, 2006.
  
 Teaching experience
-======
+=====
 * Teaching Assistant, Fall 2014-Present Day.
   * Department of Mathematics, University of Pittsburgh.
   * Courses Taught: Calculus I, Calculus II.
@@ -76,7 +76,7 @@ Teaching experience
   * Courses Taught: Calculus I and Precalculus.
  
 Computer Skills
-======
+=====
 * Languages 
   * Java
   * Matlab
