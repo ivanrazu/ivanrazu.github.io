@@ -28,7 +28,7 @@ Department of Mathematics, University of Pittsburgh.
   * Department of Mathematics, University of Pittsburgh. 
   * Course Taught: Differential Equations. 
 
-* Instructor, Fall 2013 $-$ Summer 2014.
+* Instructor, Fall 2013 - Summer 2014.
   * Department of Mathematics, East Tennessee State University (ETSU). 
   * Courses Taught: Calculus I, Calculus II.
   
