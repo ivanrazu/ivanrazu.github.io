@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Universidad de Costa Rica, 2010
-* M.S. in Mathematics, East Tennesse State University, 2014
-* Ph.D in Mathematics, University of Pittsburgh, 2020 (expected)
+* B.S. in Mathematics, Universidad de Costa Rica, 2010.
+* M.S. in Mathematics, East Tennesse State University, 2014.
+* Ph.D in Mathematics, University of Pittsburgh, 2020 (expected).
 
 Teaching experience
 ======
