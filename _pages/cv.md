@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a pdf version of my CV [here]()
+You can find an updated and more complete pdf version version of my CV [here](https://github.com/ivanrazu/ivanrazu.github.io/blob/master/files/CVIvanRamirez.pdf)
+
+
 Education
 ======
 * B.S. in Mathematics, Universidad de Costa Rica, 2010.
