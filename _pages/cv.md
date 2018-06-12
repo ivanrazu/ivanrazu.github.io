@@ -14,9 +14,9 @@ You can find an updated and more complete pdf version of my CV [here](https://gi
 
 Education
 ======
-* B.S. in Mathematics, Universidad de Costa Rica, 2010.
-* M.S. in Mathematics, East Tennesse State University, 2014.
 * Ph.D in Mathematics, University of Pittsburgh, 2020 (expected).
+* M.S. in Mathematics, East Tennesse State University, 2014.
+* B.S. in Mathematics, Universidad de Costa Rica, 2010.
 
   
 Publications
@@ -65,7 +65,15 @@ Teaching experience
 
 * Instructor, Fall 2013 - Summer 2014.
   * Department of Mathematics, East Tennessee State University (ETSU). 
-  * Courses Taught: Calculus I, Calculus II. 
+  * Courses Taught: Calculus I, Calculus II.
+  
+* Instructor, 2009 - December 2012.
+  * Department of Mathematics, Universidad de Costa Rica (UCR).
+  * Courses Taught: Calculus I, Calculus II, Linear Algebra, and Differential Equations.
+
+* High School Teacher, 2010 - December 2012.
+  * Colegio Cient\'ifico Costarricense (STEM High School type).
+  * Courses Taught: Calculus I and Precalculus.
  
 Computer Skills
 ======
