@@ -15,23 +15,6 @@ Education
 * M.S. in Mathematics, East Tennesse State University, 2014.
 * Ph.D in Mathematics, University of Pittsburgh, 2020 (expected).
 
-Teaching experience
-======
-* Teaching Assistant, Fall 2014-Present Day.
-  * Department of Mathematics, University of Pittsburgh.
-  * Courses Taught: Calculus I, Calculus II.
-  
-* Instructor, Summer 2017.
-  * Department of Mathematics, University of Pittsburgh. 
-  * Course Taught: Calculus II. 
-
-* Instructor, Summer 2015.
-  * Department of Mathematics, University of Pittsburgh. 
-  * Course Taught: Differential Equations. 
-
-* Instructor, Fall 2013 - Summer 2014.
-  * Department of Mathematics, East Tennessee State University (ETSU). 
-  * Courses Taught: Calculus I, Calculus II.
   
 Publications
 ======
@@ -60,6 +43,24 @@ Talks
  * International Symposium of Applied Methods on Sciences, SIMAC, organized by University of Costa Rica, 2012.
  * International Symposium of Applied Methods on Sciences, SIMAC, organized by University of Costa Rica, 2008.
  * International Symposium of Applied Methods on Sciences, SIMAC, organized by University of Costa Rica, 2006.
+ 
+Teaching experience
+======
+* Teaching Assistant, Fall 2014-Present Day.
+  * Department of Mathematics, University of Pittsburgh.
+  * Courses Taught: Calculus I, Calculus II.
+  
+* Instructor, Summer 2017.
+  * Department of Mathematics, University of Pittsburgh. 
+  * Course Taught: Calculus II. 
+
+* Instructor, Summer 2015.
+  * Department of Mathematics, University of Pittsburgh. 
+  * Course Taught: Differential Equations. 
+
+* Instructor, Fall 2013 - Summer 2014.
+  * Department of Mathematics, East Tennessee State University (ETSU). 
+  * Courses Taught: Calculus I, Calculus II. 
  
 Computer Skills
 ======
