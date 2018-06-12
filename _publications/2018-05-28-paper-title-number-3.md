@@ -9,4 +9,3 @@ paperurl:
 citation: 'Ivan Ramirez Zuniga, J.E. Rubin, D. Swigon, and G. Clermont. (2018). &quot;Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response.&quot; <i>Journal of Theoretical Biology 1</i>. 1(1).'
 ---
 
-Recommended citation: I. Ramirez Zuniga, J.E. Rubin, D. Swigon, and G. Clermont. (2018). "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response." <i>Journal of Theoretical Biology 1</i>. 
