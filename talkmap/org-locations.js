@@ -19,4 +19,10 @@ var addressPoints = [
     36.3025, 
     -82.3702
   ]
+  [
+    "Guanajuato, Mexico",
+    21.0421,
+    -101.2612  
+  ] 
+  
 ];
