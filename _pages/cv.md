@@ -26,10 +26,9 @@ epidemiology, parameter estimation.
   
 Publications
 =====
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Ivan Ramirez Zuniga, Jonathan E. Rubin, David Swigon, and Gilles Clermont. Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response. Accepted in August 2018 in Journal of Theoretical Biology.
+* R. Brady, C. Pulez, I. Ramirez Zuniga, K. Larripa, M.S. Olufsen (2017). "A coupled model exploring the cardiovascular response to an acute inflammatory event." Proc 5th Int Conf Comp Math Biomed Eng (CMBE).
+* I. Ramirez Zuniga. (2014). "Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection." Electronic Theses and Dissertations. Paper 2425. [Pdf](https://dc.etsu.edu/etd/2425)]
 
 Talks and Poster Presentations
 =====
@@ -50,13 +49,13 @@ Attended Conferences, Workshops, and Summer Schools
  *  SIAM Conference on the Life Sciences 2016, Boston, MA July 2016.
  *  Mathematics Research Communities - Mathematics in Physiology and Medicine, Snowbird Utah, June 2016.
  *  Summer School, The Joint 2015 CAMBAM-MBI-NIMBioS'' in Nonlinear Dynamics in Biological Systems at McGill University, Montreal, June 2015.
- *  Tutorial Parameter Estimation for Dynamic Biological Models'' at NIMBioS, May 2014.
+ *  Tutorial: "Parameter Estimation for Dynamic Biological Models" at NIMBioS, Knoxville, TN, May 2014.
  *  SEARCDE 2013, University of Tennessee, Knoxville, TN, September 2013.
- *  The Society for Mathematical Biology Annual Meeting and Conference,organized by NIMBioS and the University of Tennessee, Knoxville, TN 2012.
- *  Math Schools for Latin America and the Caribbean, EMALCA, organized by University of Costa Rica, 2012.
- * International Symposium of Applied Methods on Sciences, SIMAC, organized by University of Costa Rica, 2012.
- * International Symposium of Applied Methods on Sciences, SIMAC, organized by University of Costa Rica, 2008.
- * International Symposium of Applied Methods on Sciences, SIMAC, organized by University of Costa Rica, 2006.
+ *  The Society for Mathematical Biology Annual Meeting and Conference, Convention Center, Knoxville, TN, July 2012.
+ *  Math Schools for Latin America and the Caribbean, EMALCA, University of Costa Rica, San Ramon, Costa Rica 2012.
+ * International Symposium of Applied Methods on Sciences, SIMAC, University of Costa Rica, San Jose, Costa Rica 2012.
+ * International Symposium of Applied Methods on Sciences, SIMAC, University of Costa Rica, San Jose, Costa Rica 2008.
+ * International Symposium of Applied Methods on Sciences, SIMAC, University of Costa Rica, San Jose, Costa Rica 2006.
  
 Teaching experience
 =====
