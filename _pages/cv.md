@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can a pdf version of my CV [here](https://ivanrazu.github.io/files/CVIvanRamirez.pdf).
+You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CVIvanRamirez.pdf).
 
 
 Education
