@@ -1,13 +1,16 @@
 var addressPoints = [
-  ["University of Pittsburgh, Pittsburgh PA, USA",
+  [
+    "University of Pittsburgh, Pittsburgh PA, USA",
   40.4444,
   -79.9608
   ],  
-  ["Minneapolis MN, USA",
+  [
+    "Minneapolis MN, USA",
    44.9771, 
    -93.2736  
   ],  
-  ["NC State, Raleigh NC, USA",
+  [
+    "NC State, Raleigh NC, USA",
    35.7847,
    -78.6821  
   ],  
