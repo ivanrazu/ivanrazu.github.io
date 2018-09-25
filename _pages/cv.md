@@ -33,7 +33,7 @@ Publications
 
 Talks and Poster Presentations
 =====
-* "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the AMS Microconference on Parameter Estimation at the Marriot City Center, Minneapolis MN, August 2018.
+* Talk: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the AMS Microconference on Parameter Estimation at the Marriot City Center, Minneapolis MN, August 2018.
 * Talk: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response". SIAM conference on the life sciences (LS18) at the Radisson Blu Minneapolis, Minneapolis MN, August 2018.
 * Poster presentation: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response". at the workshop : Research training group in mathematical biology "Parameter Estimation for Mechanistic Biological Models". NC State University, Raleigh NC, July 2018.
 * Poster presentation: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the workshop :Host-pathogens dynamics at The Mathematical Biosciences Institute (MBI),Columbus OH, February 2018.
