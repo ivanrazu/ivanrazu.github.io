@@ -27,7 +27,7 @@ epidemiology, parameter estimation.
 Publications
 =====
 * Ivan Ramirez Zuniga, Jonathan E. Rubin, David Swigon, and Gilles Clermont. Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response. Accepted in August 2018 in Journal of Theoretical Biology.
-* R. Brady, C. Pulez, I. Ramirez Zuniga, K. Larripa, M.S. Olufsen (2017). "A coupled model exploring the cardiovascular response to an acute inflammatory event." Proc 5th Int Conf Comp Math Biomed Eng (CMBE).([Link](http://www.compbiomed.net/2017/cmbe-proceedings.htm))
+* R. Brady, C. Pulez, I. Ramirez Zuniga, K. Larripa, M.S. Olufsen (2017). "A coupled model exploring the cardiovascular response to an acute inflammatory event." Proc 5th Int Conf Comp Math Biomed Eng (CMBE), Vol 1, 336-339. ([Link](http://www.compbiomed.net/2017/cmbe-proceedings.htm))
 * I. Ramirez Zuniga. (2014). "Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection." Electronic Theses and Dissertations. Paper 2425. ([Pdf](https://dc.etsu.edu/etd/2425))
 
 Talks and Poster Presentations
