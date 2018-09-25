@@ -4,12 +4,12 @@ var addressPoints = [
    44.9771, 
    -93.2736  
   ],  
-  ["Raleigh NC, USA",
+  ["NC State, Raleigh NC, USA",
    35.7847,
    -78.6821  
   ],  
   [
-    "Columbus OH, USA",
+    "MBI, Columbus OH, USA",
     39.9970, 
     -83.0154
   ],
