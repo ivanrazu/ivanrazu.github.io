@@ -59,33 +59,26 @@ Inflammatory Response". SIAM Conference on the Life Sciences 2016, Boston, MA Ju
  
 Teaching experience
 =====
-* Teaching Assistant, Fall 2014-Present Day.
-  * Department of Mathematics, University of Pittsburgh.
-  * Courses Taught: Math 0220 Calculus I, Math 0230 Calculus II, Math 0240 Calculus III, Math 0290 Differential Equations, Math 0280 Linear Algebra.
+* Teaching Assistant, Fall 2014-Present Day. Department of Mathematics, University of Pittsburgh.
+   * Courses Taught: Math 0220 Calculus I, Math 0230 Calculus II, Math 0240 Calculus III, Math 0290 Differential Equations, Math 0280 Linear Algebra.
   
-  * Instructor, Summer 2018.
-  * Department of Mathematics, University of Pittsburgh. 
-  * Course Taught: Calculus III. 
+  * Instructor, Summer 2018. Department of Mathematics, University of Pittsburgh.    
+   * Course Taught: Calculus III. 
   
-* Instructor, Summer 2017.
-  * Department of Mathematics, University of Pittsburgh. 
-  * Course Taught: Calculus II. 
+* Instructor, Summer 2017. Department of Mathematics, University of Pittsburgh.
+   * Course Taught: Calculus II. 
 
-* Instructor, Summer 2015.
-  * Department of Mathematics, University of Pittsburgh. 
-  * Course Taught: Differential Equations. 
+* Instructor, Summer 2015.  Department of Mathematics, University of Pittsburgh.
+   * Course Taught: Differential Equations. 
 
-* Instructor, Fall 2013 - Summer 2014.
-  * Department of Mathematics, East Tennessee State University (ETSU). 
-  * Courses Taught: Calculus I, Calculus II.
+* Instructor, Fall 2013 - Summer 2014. Department of Mathematics, East Tennessee State University (ETSU).
+   * Courses Taught: Calculus I, Calculus II.
   
-* Instructor, 2009 - December 2012.
-  * Department of Mathematics, Universidad de Costa Rica (UCR).
-  * Courses Taught: Calculus I, Calculus II, Linear Algebra, and Differential Equations.
+* Instructor, 2009 - December 2012. Department of Mathematics, Universidad de Costa Rica (UCR).
+   * Courses Taught: Calculus I, Calculus II, Linear Algebra, and Differential Equations.
 
-* High School Teacher, 2010 - December 2012.
-  * Colegio Cient\'ifico Costarricense (STEM High School type).
-  * Courses Taught: Calculus I and Precalculus.
+* High School Teacher, 2010 - December 2012. Colegio Cientifico Costarricense (STEM High School type).
+   * Courses Taught: Calculus I and Precalculus.
  
 Computer Skills
 =====
