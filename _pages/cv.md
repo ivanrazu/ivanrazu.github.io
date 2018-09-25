@@ -63,7 +63,7 @@ Teaching experience
 * Teaching Assistant, Fall 2014-Present Day. Department of Mathematics, University of Pittsburgh.
    * Courses Taught: Math 0220 Calculus I, Math 0230 Calculus II, Math 0240 Calculus III, Math 0290 Differential Equations, Math 0280 Linear Algebra.
   
-  * Instructor, Summer 2018. Department of Mathematics, University of Pittsburgh.    
+* Instructor, Summer 2018. Department of Mathematics, University of Pittsburgh.    
    * Course Taught: Calculus III. 
   
 * Instructor, Summer 2017. Department of Mathematics, University of Pittsburgh.
