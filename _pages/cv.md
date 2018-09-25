@@ -64,19 +64,19 @@ Teaching experience
    * Courses Taught: Math 0220 Calculus I, Math 0230 Calculus II, Math 0240 Calculus III, Math 0290 Differential Equations, Math 0280 Linear Algebra.
   
 * Instructor, Summer 2018. Department of Mathematics, University of Pittsburgh.    
-   * Course Taught: Calculus III. 
+   * Course Taught: Math 0240 Calculus III. 
   
 * Instructor, Summer 2017. Department of Mathematics, University of Pittsburgh.
-   * Course Taught: Calculus II. 
+   * Course Taught: Math 0230 Calculus II. 
 
 * Instructor, Summer 2015.  Department of Mathematics, University of Pittsburgh.
-   * Course Taught: Differential Equations. 
+   * Course Taught: Math 0290 Differential Equations. 
 
 * Instructor, Fall 2013 - Summer 2014. Department of Mathematics, East Tennessee State University (ETSU).
-   * Courses Taught: Calculus I, Calculus II.
+   * Courses Taught: Math 0220 Calculus I, Calculus II.
   
 * Instructor, 2009 - December 2012. Department of Mathematics, Universidad de Costa Rica (UCR).
-   * Courses Taught: Calculus I, Calculus II, Linear Algebra, and Differential Equations.
+   * Courses Taught: MA1001 Calculus I, MA1002 Calculus II, MA1004 Linear Algebra, and MA1005 Differential Equations.
 
 * High School Teacher, 2010 - December 2012. Colegio Cientifico Costarricense (STEM High School type).
    * Courses Taught: Calculus I and Precalculus.
