@@ -32,7 +32,7 @@ var addressPoints = [
     -82.3702
   ],
   [
-    "Guanajuato, MX",
+    "CIMAT, Guanajuato, MX",
     21.0421,
     -101.2612  
   ]   
