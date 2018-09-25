@@ -7,7 +7,7 @@ venue: "University of Pittsburgh, Department of Mathematics"
 date: 2018-06-25
 location: "Pittsburgh PA, USA"
 ---
-Welcome...
+Welcome to Calculus III
 
 Heading 1
 ======
