@@ -31,22 +31,23 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+Talks and Poster Presentations
 =====
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the AMS Microconference on Parameter Estimation at the Marriot City Center, Minneapolis MN, August 2018.
+* Talk: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response". SIAM conference on the life sciences (LS18) at the Radisson Blu Minneapolis, Minneapolis MN, August 2018.
+* Poster presentation: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response". at the workshop : Research training group in mathematical biology "Parameter Estimation for Mechanistic Biological Models". NC State University, Raleigh NC, July 2018.
+* Poster presentation: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the workshop :Host-pathogens dynamics at The Mathematical Biosciences Institute (MBI),Columbus OH, February 2018.
+* Poster presentation: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the SIAM Conference on the Life Sciences 2016, Boston, MA July 2016.
+* Talk: "Sensitivity Analysis and optimal Control Treatment of Hepatitis C Virus Dynamics" at the Appalachian Student Research Forum 2014. East Tennessee State University, April 2014., Johnson City, TN.
+* Poster presentation: "Proyecto 6x4 UEALC"at the Week of Methods to Reduce Dimension in Data Analysis at Centro de Investigaciones Matematicas , CIMAT, Guanajuato, Mexico.
   
 Attended Conferences, Workshops, and Summer Schools
 =====
- * Talk: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the AMS Microconference on Parameter Estimation at the Marriot City Center, Minneapolis MN, August 2018.
- * Talk: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response". SIAM conference on the life sciences (LS18) at the Radisson Blu Minneapolis, Minneapolis MN, August 2018.
- * Poster presentation: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response". at the workshop : Research training group in mathematical biology "Parameter Estimation for Mechanistic Biological Models". NC State University, Raleigh NC, July 2018.
-  * Poster presentation: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the workshop :Host-pathogens dynamics at The Mathematical Biosciences Institute (MBI),Columbus OH, February 2018.
- *  Parameter Estimation and Uncertainty Quantification for Dynamical Systems, University of Pittsburgh, Pittsburgh PA, March 2017
- * Poster presentation: "Mathematical Modeling of Energy Consumption in the Acute
-Inflammatory Response". SIAM Conference on the Life Sciences 2016, Boston, MA July 2016.
+ * AMS Microconference on Parameter Estimation at the Marriot City Center, Minneapolis MN, August 2018.
+ * SIAM conference on the life sciences (LS18) at the Radisson Blu Minneapolis, Minneapolis MN, August 2018.
+ * Workshop : Research training group in mathematical biology "Parameter Estimation for Mechanistic Biological Models". NC State University, Raleigh NC, July 2018.
+ * Workshop :Host-pathogens dynamics at The Mathematical Biosciences Institute (MBI),Columbus OH, February 2018.
+ *  SIAM Conference on the Life Sciences 2016, Boston, MA July 2016.
  *  Mathematics Research Communities - Mathematics in Physiology and Medicine, Snowbird Utah, June 2016.
  *  Summer School, The Joint 2015 CAMBAM-MBI-NIMBioS'' in Nonlinear Dynamics in Biological Systems at McGill University, Montreal, June 2015.
  *  Tutorial Parameter Estimation for Dynamic Biological Models'' at NIMBioS, May 2014.
