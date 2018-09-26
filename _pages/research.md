@@ -15,7 +15,7 @@ I am also interested in implementing optimal control to our models to find ideal
 
 ### Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response.
 
-* Several studies have found a relation between sepsis and low levels of adenosine triphosphate (ATP) combined with overproduction of lactate and nitric oxide (NO). In this project we developed a system of ordinary differential equations to study the dynamics of the acute inflammatory response and its interations with the production and consumption of ATP.
+* Several studies have found a relation between sepsis and low levels of adenosine triphosphate (ATP) combined with overproduction of lactate and nitric oxide (NO). In this project we developed a system of ordinary differential equations to study the dynamics of the acute inflammatory response and its interactions with the production and demand of ATP.
 
 
 
