@@ -12,26 +12,22 @@ redirect_from:
 You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CVIvanRamirez.pdf).
 
 
-Education
-=====
+## Education
 * Ph.D in Mathematics, University of Pittsburgh, 2020 (expected).
 * M.S. in Mathematics, East Tennesse State University, 2014.
 * B.S. in Mathematics, Universidad de Costa Rica, 2010.
 
-Research Interests
-====
+## Research Interests
 * Mathematical immunology and bioenergetics, infectious diseases, optimal control, differential equations,
 epidemiology, parameter estimation.
  
   
-Publications
-=====
+## Publications
 * Ivan Ramirez Zuniga, Jonathan E. Rubin, David Swigon, and Gilles Clermont. Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response. Accepted in August 2018 in Journal of Theoretical Biology.
 * R. Brady, C. Pulez, I. Ramirez Zuniga, K. Larripa, M.S. Olufsen (2017). "A coupled model exploring the cardiovascular response to an acute inflammatory event." Proc 5th Int Conf Comp Math Biomed Eng (CMBE), Vol 1, 336-339. ([Link](http://www.compbiomed.net/2017/cmbe-proceedings.htm))
 * I. Ramirez Zuniga. (2014). "Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection." Electronic Theses and Dissertations. Paper 2425. ([Link](https://dc.etsu.edu/etd/2425))
 
-Talks and Poster Presentations
-=====
+## Talks and Poster Presentations
 * Talk: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the AMS Microconference on Parameter Estimation at the Marriot City Center, Minneapolis MN, August 2018.
 * Talk: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response". SIAM conference on the life sciences (LS18) at the Radisson Blu Minneapolis, Minneapolis MN, August 2018.
 * Poster presentation: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response". at the workshop : Research training group in mathematical biology "Parameter Estimation for Mechanistic Biological Models". NC State University, Raleigh NC, July 2018.
@@ -40,8 +36,7 @@ Talks and Poster Presentations
 * Talk: "Sensitivity Analysis and optimal Control Treatment of Hepatitis C Virus Dynamics" at the Appalachian Student Research Forum 2014. East Tennessee State University, April 2014., Johnson City, TN.
 * Poster presentation: "Proyecto 6x4 UEALC"at the Week of Methods to Reduce Dimension in Data Analysis at Centro de Investigaciones Matematicas , CIMAT, Guanajuato, Mexico.
   
-Attended Conferences, Workshops, and Summer Schools
-=====
+## Attended Conferences, Workshops, and Summer Schools
  * AMS Microconference on Parameter Estimation at the Marriot City Center, Minneapolis MN, August 2018.
  * SIAM conference on the life sciences (LS18) at the Radisson Blu Minneapolis, Minneapolis MN, August 2018.
  * Workshop : Research training group in mathematical biology "Parameter Estimation for Mechanistic Biological Models". NC State University, Raleigh NC, July 2018.
@@ -57,8 +52,7 @@ Attended Conferences, Workshops, and Summer Schools
  * International Symposium of Applied Methods on Sciences, SIMAC, University of Costa Rica, San Jose, Costa Rica 2008.
  * International Symposium of Applied Methods on Sciences, SIMAC, University of Costa Rica, San Jose, Costa Rica 2006.
  
-Teaching experience
-=====
+## Teaching experience
 * Teaching Assistant, Fall 2014-Present Day. Department of Mathematics, University of Pittsburgh.
    * Courses Taught: Math 0220 Calculus I, Math 0230 Calculus II, Math 0240 Calculus III, Math 0290 Differential Equations, Math 0280 Linear Algebra.
   
@@ -80,8 +74,7 @@ Teaching experience
 * High School Teacher, 2010 - December 2012. Colegio Cientifico Costarricense (STEM High School type).
    * Courses Taught: Calculus I and Precalculus.
  
-Computer Skills
-=====
+## Computer Skills
 * Languages 
   * Java
   * Matlab
