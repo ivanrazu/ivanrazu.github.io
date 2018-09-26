@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![..](https://www.ivanrazu.github.io/images/profile_pic.png)
+![mypic](https://ivanrazu.github.io/images/profile_pic.png)
     
 I am originally from Costa Rica where I completed my undergraduate studies in Mathematics at [Universidad de Costa Rica](https://www.ucr.ac.cr/). Currently, I am a PhD student in the [Mathematics department at the University of Pittsburgh](https://www.mathematics.pitt.edu/). My area of research focuses on developing and studying mathematical models to explore the dynamics of the acute immune response under the presence of certain diseases and conditions. 
 
