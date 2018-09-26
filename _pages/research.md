@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
-  - /research
+  - /research.html
 ---
 Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response.
 ====
