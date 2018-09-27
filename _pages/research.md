@@ -7,8 +7,8 @@ redirect_from:
   - /research
 ---
 
-I am interested in developing mathematical models to study the dynamics of the acute inflammatory response. 
-I use ordinary and partial differential equations are frequentely to develop such models. We conduct analytic and numerical explorations such as bifurcation analysis of these models which provide a rich inside of the biology of the problem. We also perform parameter estimation techniques such as Ordinary Least Squares, Monte Carlo Markov Chains (MCMC) algorithms, and variations of these like Delayed Rejection Adaptive Metropolis (DRAM) to fit these models to animal and human data.  
+I am interested in developing mathematical models to study the dynamics of inflammation and immune response. 
+I use ordinary and partial differential equations to develop such models. We conduct analytic and numerical explorations such as bifurcation analysis of these models which provide a rich inside of the biology of the problem. We also perform parameter estimation techniques such as Ordinary Least Squares, Monte Carlo Markov Chains (MCMC) algorithms, and variations of these like Delayed Rejection Adaptive Metropolis (DRAM) to fit these models to animal and human data.  
 I am also interested in implementing optimal control to our models to find ideal treatment strategies to fight infectious diseases.  
 
 ## Projects
