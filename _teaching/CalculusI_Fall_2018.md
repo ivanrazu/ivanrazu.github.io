@@ -8,6 +8,5 @@ date: 2018-08-27
 location: "Pittsburgh, USA"
 ---
 
-Quiz Solutions
-======
+
 
