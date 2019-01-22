@@ -13,7 +13,7 @@ I am originally from Costa Rica where I completed my undergraduate studies in Ma
 
 I work under the supervision of [Dr. Jonathan Rubin](http://www.math.pitt.edu/~rubin/) and [Dr. David Swigon](http://www.math.pitt.edu/~swigon/) and we also collaborate with [Dr. Gilles Clermont](http://www.ccm.pitt.edu/directory/profile/gilles-clermont). 
 
-I am interested in mathematical immunology, bioenergetics, modeling infectious diseases, optimal control, differential equations, epidemiology, and parameter estimation techniques. 
+I am interested in mathematical immunology, bioenergetics, modeling infectious diseases, optimal control, differential equations, epidemiology, population dynamics, mathematical oncology, and parameter estimation techniques. 
 
 
 
