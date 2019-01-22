@@ -25,11 +25,6 @@ var addressPoints = [
     -71.0430    
   ],
   [
-    "Knoxville TN, USA",
-    35.9544, 
-    -83.9295
-  ],
-  [
     "Johnson City, TN",
     36.3025, 
     -82.3702
