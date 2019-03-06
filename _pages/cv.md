@@ -24,6 +24,9 @@ You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CVIv
 * Mathematical immunology and bioenergetics, infectious diseases, optimal control, differential equations,
 epidemiology, parameter estimation.
  
+## Awards
+* Arts and Sciences Graduate Fellowship, University of Pittsburgh, 2014-2015.
+* Andrew Mellon Predoctoral Fellowship, 2019-2020.
   
 ## Publications
 * I. Ramirez Zuniga, Jonathan E. Rubin, David Swigon, and Gilles Clermont. Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response. Journal of Theoretical Biology, 460. 101-114, (2019).
