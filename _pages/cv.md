@@ -25,7 +25,7 @@ You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CVIv
 epidemiology, parameter estimation.
  
 ## Awards
-* Andrew Mellon Predoctoral Fellowship, 2019-2020.
+* Andrew Mellon Predoctoral Fellowship, University of Pittsburgh, 2019-2020.
 * Arts and Sciences Graduate Fellowship, University of Pittsburgh, 2014-2015.
   
 ## Publications
