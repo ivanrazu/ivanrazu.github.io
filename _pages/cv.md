@@ -44,6 +44,7 @@ epidemiology, parameter estimation.
 * Poster presentation: "Proyecto 6x4 UEALC"at the Week of Methods to Reduce Dimension in Data Analysis at Centro de Investigaciones Matematicas , CIMAT, Guanajuato, Mexico.
   
 ## Attended Conferences, Workshops, and Summer Schools
+ * Joint Mathematics Meetings (JMM), Baltimore MD, January 2019.
  * AMS Microconference on Parameter Estimation at the Marriot City Center, Minneapolis MN, August 2018.
  * SIAM conference on the life sciences (LS18) at the Radisson Blu Minneapolis, Minneapolis MN, August 2018.
  * Workshop : Research training group in mathematical biology "Parameter Estimation for Mechanistic Biological Models". NC State University, Raleigh NC, July 2018.
