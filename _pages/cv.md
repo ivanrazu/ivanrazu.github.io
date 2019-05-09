@@ -62,7 +62,7 @@ epidemiology, parameter estimation.
  
 ## Teaching experience
 * Teaching Assistant, Fall 2014-Present Day. Department of Mathematics, University of Pittsburgh.
-   * Courses Taught: Math 0220 Calculus I, Math 0230 Calculus II, Math 0240 Calculus III, Math 0290 Differential Equations, Math 0280 Linear Algebra.
+   * Courses Taught: Math 0220 Calculus I, Math 0230 Calculus II, Math 0240 Calculus III, Math 0290 Differential Equations, Math 0280 Linear Algebra, Math 0450 Introduction to Analysis Honors.
   
 * Instructor, Summer 2018. Department of Mathematics, University of Pittsburgh.    
    * Course Taught: Math 0240 Calculus III. 
