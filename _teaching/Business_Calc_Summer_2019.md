@@ -17,10 +17,10 @@ location: "Pittsburgh, USA"
 
 {% include base_path %}
 
-You can find a pdf version of my syllabus [here](https://ivanrazu.github.io/files/CVIvanRamirez.pdf).
+You can find a pdf version of my syllabus [here] %(https://ivanrazu.github.io/files/CVIvanRamirez.pdf).%
 
 
-## Grading Policy
-* First.
-* Second
-* Third.
+
+## Useful links
+* Prof. Arrington's material : [link](http://www.math.pitt.edu/~earr/Math-1020/Math0120Base.html)
+* Prof. Everest's material: [link](http://www.math.pitt.edu/~evt3/0120/)
