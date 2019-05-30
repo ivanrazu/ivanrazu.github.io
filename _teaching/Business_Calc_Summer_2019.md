@@ -21,5 +21,5 @@ You can find a pdf version of my syllabus here.
 
 
 ## Useful links
-* Prof. Arrington's material ( [link](http://www.math.pitt.edu/~earr/Math-1020/Math0120Base.html))
-* Prof. Everest's material( [link](http://www.math.pitt.edu/~evt3/0120/))
+* Prof. Arrington's material ([link](http://www.math.pitt.edu/~earr/Math-1020/Math0120Base.html))
+* Prof. Everest's material ([link](http://www.math.pitt.edu/~evt3/0120/))
