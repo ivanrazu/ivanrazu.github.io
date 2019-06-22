@@ -22,6 +22,6 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 
 
 
-## Useful links
+## Additional Practice
 * Prof. Arrington's material ([link](http://www.math.pitt.edu/~earr/Math-1020/Math0120Base.html))
 * Prof. Everest's material ([link](http://www.math.pitt.edu/~evt3/0120/))
