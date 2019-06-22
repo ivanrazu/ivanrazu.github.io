@@ -17,7 +17,9 @@ location: "Pittsburgh, USA"
 
 {% include base_path %}
 
-You can find a pdf version of my syllabus here.
+You can find a pdf version of my syllabus ## here ([link](https://github.com/ivanrazu/ivanrazu.github.io/blob/master/files/Syllabus.pdf)}
+
+
 
 
 ## Useful links
