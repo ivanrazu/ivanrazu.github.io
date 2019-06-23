@@ -16,7 +16,7 @@ location: "Pittsburgh, USA"
 
 
 {% include base_path %}
-
+## Syllabus
 You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.io/files/Syllabus.pdf))
 
 ## Suggested exercises for week 1
