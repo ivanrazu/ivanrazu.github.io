@@ -19,8 +19,13 @@ location: "Pittsburgh, USA"
 
 You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.io/files/Syllabus.pdf))
 
-
-
+## Suggested exercises for week 1
+* Section 1.1: 34, 38, 42, 46, 60.
+* Section 1.2: 62, 70, 86, 93.
+* Section 1.3: 9, 19, 28, 40, 46, 69, 79.
+* Section 1.4: 12, 20, 28, 30, 56, 84, 69.
+* Section 4.1: 20, 27, 29, 43.
+* Section 4.2: 22, 28, 34, 44, 61.
 
 ## Additional Practice
 * Prof. Arrington's material ([link](http://www.math.pitt.edu/~earr/Math-1020/Math0120Base.html))
