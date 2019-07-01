@@ -27,6 +27,7 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Section 4.1: 20, 27, 29, 43.
 * Section 4.2: 22, 28, 34, 44, 61.
 * Section 2.1: exercises here ([link](https://ivanrazu.github.io/files/exc_sect2.1.pdf)).
+
 ## Suggested exercises for week 2
 * Section 2.1(continued): exercises here ([link](https://ivanrazu.github.io/files/exc_sect2.1_continued.pdf)).
 * Section 2.2: 8, 10, 16, 20, 24, 28, 40, 57, 59.
