@@ -28,9 +28,9 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Section 4.2: 22, 28, 34, 44, 61.
 * Section 2.1: exercises here ([link](https://ivanrazu.github.io/files/exc_sect2.1.pdf)).
 * Section 2.1(continued): exercises here ([link](https://ivanrazu.github.io/files/exc_sect2.1_continued.pdf)).
-* Section 2.2: 8,10,16,20,24,28,40,57,59.
+* Section 2.2: 8, 10, 16, 20, 24, 28, 40, 57, 59.
 * Section 2.3: 22, 26, 28, 61.
-* Section 2.4: 10,26,36,44,53,56,62,66,75.
+* Section 2.4: 10, 26, 36, 44, 53, 56, 62, 66, 75.
 ## Additional Practice
 * Prof. Arrington's material ([link](http://www.math.pitt.edu/~earr/Math-1020/Math0120Base.html))
 * Prof. Everest's material ([link](http://www.math.pitt.edu/~evt3/0120/))
