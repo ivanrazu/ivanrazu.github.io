@@ -28,6 +28,11 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Section 2.1: exercises here ([link](https://ivanrazu.github.io/files/exc_sect2.1.pdf)).
 ## Suggested exercises for week 2
 * Section 2.1(continued): exercises here ([link](https://ivanrazu.github.io/files/exc_sect2.1_continued.pdf)).
+* Section 2.2: 8, 57, 59.
+* Section 2.3: 61, 63.
+* Section 2.4: 62, 66, 73.
+* Section 2.5: 34, 37, 39.
+* Section 2.2-2.4 additional problems here ([link](https://ivanrazu.github.io/files/exc_sect2.2-2.5.pdf)).
 ## Additional Practice
 * Prof. Arrington's material ([link](http://www.math.pitt.edu/~earr/Math-1020/Math0120Base.html))
 * Prof. Everest's material ([link](http://www.math.pitt.edu/~evt3/0120/))
