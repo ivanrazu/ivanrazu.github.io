@@ -46,13 +46,13 @@ epidemiology, parameter estimation.
 * Poster presentation: "Proyecto 6x4 UEALC"at the Week of Methods to Reduce Dimension in Data Analysis at Centro de Investigaciones Matematicas , CIMAT, Guanajuato, Mexico.
   
 ## Attended Conferences, Workshops, and Summer Schools
-* Workshop :Summit on the Rules of Life at The Mathematical Biosciences Institute (MBI), Columbus OH, June 2019.
+* Workshop: Summit on the Rules of Life at The Mathematical Biosciences Institute (MBI), Columbus OH, June 2019.
 * Biology and Medicine Through Mathematics Conference (BAMM), Virginia Commonwealth University, Richmond VA, May 2019.
  * Joint Mathematics Meetings (JMM), Baltimore MD, January 2019.
  * AMS Microconference on Parameter Estimation at the Marriot City Center, Minneapolis MN, August 2018.
  * SIAM conference on the life sciences (LS18) at the Radisson Blu Minneapolis, Minneapolis MN, August 2018.
- * Workshop : Research training group in mathematical biology "Parameter Estimation for Mechanistic Biological Models". NC State University, Raleigh NC, July 2018.
- * Workshop :Host-pathogens dynamics at The Mathematical Biosciences Institute (MBI),Columbus OH, February 2018.
+ * Workshop: Research training group in mathematical biology "Parameter Estimation for Mechanistic Biological Models". NC State University, Raleigh NC, July 2018.
+ * Workshop: Host-pathogens dynamics at The Mathematical Biosciences Institute (MBI),Columbus OH, February 2018.
  *  SIAM Conference on the Life Sciences 2016, Boston, MA July 2016.
  *  Mathematics Research Communities - Mathematics in Physiology and Medicine, Snowbird Utah, June 2016.
  *  Summer School, The Joint 2015 CAMBAM-MBI-NIMBioS'' in Nonlinear Dynamics in Biological Systems at McGill University, Montreal, June 2015.
