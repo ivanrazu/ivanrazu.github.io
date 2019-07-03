@@ -35,14 +35,14 @@ epidemiology, parameter estimation.
 * I. Ramirez Zuniga. (2014). "Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection." Electronic Theses and Dissertations. Paper 2425. ([Link](https://dc.etsu.edu/etd/2425)).
 
 ## Talks and Poster Presentations
-* Poster presentation: "A Data-driven Mathematical Study of the Role of Energy in Sepsis" at the workshop :Summit on the Rules of Life at The Mathematical Biosciences Institute (MBI),Columbus OH, June 2019.
+* Poster presentation: "A Data-driven Mathematical Study of the Role of Energy in Sepsis" at the workshop :Summit on the Rules of Life at The Mathematical Biosciences Institute (MBI), Columbus OH, June 2019.
 * Talk: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the Biology and Medicine Through Mathematics Conference (BAMM), Virginia Commonwealth University, Richmond VA, May 2019.
 * Talk: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the AMS Microconference on Parameter Estimation at the Marriot City Center, Minneapolis MN, August 2018.
 * Talk: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response". SIAM conference on the life sciences (LS18) at the Radisson Blu Minneapolis, Minneapolis MN, August 2018.
 * Poster presentation: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response". at the workshop : Research training group in mathematical biology "Parameter Estimation for Mechanistic Biological Models". NC State University, Raleigh NC, July 2018.
-* Poster presentation: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the workshop :Host-pathogens dynamics at The Mathematical Biosciences Institute (MBI),Columbus OH, February 2018.
+* Poster presentation: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the workshop :Host-pathogens dynamics at The Mathematical Biosciences Institute (MBI), Columbus OH, February 2018.
 * Poster presentation: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the SIAM Conference on the Life Sciences 2016, Boston, MA July 2016.
-* Talk: "Sensitivity Analysis and optimal Control Treatment of Hepatitis C Virus Dynamics" at the Appalachian Student Research Forum 2014. East Tennessee State University, April 2014., Johnson City, TN.
+* Talk: "Sensitivity Analysis and optimal Control Treatment of Hepatitis C Virus Dynamics" at the Appalachian Student Research Forum 2014. East Tennessee State University, April 2014, Johnson City, TN.
 * Poster presentation: "Proyecto 6x4 UEALC"at the Week of Methods to Reduce Dimension in Data Analysis at Centro de Investigaciones Matematicas , CIMAT, Guanajuato, Mexico.
   
 ## Attended Conferences, Workshops, and Summer Schools
