@@ -46,6 +46,8 @@ epidemiology, parameter estimation.
 * Poster presentation: "Proyecto 6x4 UEALC"at the Week of Methods to Reduce Dimension in Data Analysis at Centro de Investigaciones Matematicas , CIMAT, Guanajuato, Mexico.
   
 ## Attended Conferences, Workshops, and Summer Schools
+* Workshop :Summit on the Rules of Life at The Mathematical Biosciences Institute (MBI), Columbus OH, June 2019.
+* Biology and Medicine Through Mathematics Conference (BAMM), Virginia Commonwealth University, Richmond VA, May 2019.
  * Joint Mathematics Meetings (JMM), Baltimore MD, January 2019.
  * AMS Microconference on Parameter Estimation at the Marriot City Center, Minneapolis MN, August 2018.
  * SIAM conference on the life sciences (LS18) at the Radisson Blu Minneapolis, Minneapolis MN, August 2018.
@@ -65,6 +67,9 @@ epidemiology, parameter estimation.
 ## Teaching experience
 * Teaching Assistant, Fall 2014-Present Day. Department of Mathematics, University of Pittsburgh.
    * Courses Taught: Math 0220 Calculus I, Math 0230 Calculus II, Math 0240 Calculus III, Math 0290 Differential Equations, Math 0280 Linear Algebra, Math 0450 Introduction to Analysis Honors.
+   
+* Instructor, Summer 2019. Department of Mathematics, University of Pittsburgh.    
+   * Course Taught: Math 0120 Business Calculus.   
   
 * Instructor, Summer 2018. Department of Mathematics, University of Pittsburgh.    
    * Course Taught: Math 0240 Calculus III. 
