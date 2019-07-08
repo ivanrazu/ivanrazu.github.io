@@ -33,6 +33,10 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Section 2.4: 62, 66, 73.
 * Section 2.5: 34, 37, 39.
 * Section 2.2-2.4 additional problems here ([link](https://ivanrazu.github.io/files/exc_sect2.2-2.5.pdf)).
+## Suggested exercises for week 3
+* Section 2.5-2.7(page 159): 53,63, 64, 74,82,86,88,95, 101. 
+* Section 3.1: 4, 10, 24, 46, 50.
+* Section 3.2: 29, 30, 49, 52.
 ## Additional Practice
 * Prof. Arrington's material ([link](http://www.math.pitt.edu/~earr/Math-1020/Math0120Base.html))
 * Prof. Everest's material ([link](http://www.math.pitt.edu/~evt3/0120/))
