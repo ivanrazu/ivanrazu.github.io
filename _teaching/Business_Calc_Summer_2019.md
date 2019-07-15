@@ -38,11 +38,12 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Section 3.1: 4, 10, 24, 46, 50.
 * Section 3.2: 29, 30, 49, 52.
 * Section 3.3: 5, 20, 29, 36, 43, 49, 50.
-## Suggested exercises for week 
+## Suggested exercises for week 4
 * Section 3.4: 3, 11, 18, 21.
 * Section 3.5: 1, 5, 7.
 * Section 3.6: 12, 17, 25, 40, 59, 67, 69. 
 * Section 4.3: 29, 32, 36, 43, 54, 93, 114, 119, 121.
+* Section 4.4: 3, 19, 23, 31, 35.
 ## Additional Practice
 * Prof. Arrington's material ([link](http://www.math.pitt.edu/~earr/Math-1020/Math0120Base.html))
 * Prof. Everest's material ([link](http://www.math.pitt.edu/~evt3/0120/))
