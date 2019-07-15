@@ -40,7 +40,7 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Section 3.3: 5, 20, 29, 36, 43, 49, 50.
 ## Suggested exercises for week 
 * Section 3.4: 3, 11, 18, 21.
-* Section 3.5: 5, 7.
+* Section 3.5: 1, 5, 7.
 * Section 3.6: 12, 17, 25, 40, 59, 67, 69. 
 * Section 4.3: 29, 32, 36, 43, 54, 93, 114, 119, 121.
 ## Additional Practice
