@@ -45,8 +45,11 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Section 4.3: 29, 32, 36, 43, 54, 93, 114, 119, 121.
 ## Suggested exercises for week 5
 * Section 4.4: 3, 19, 23, 31, 35.
-* Section 5.1: 17, 29, 31, 49.
-* Section 5.2: 21, 26, 33, 47.
+* Section 5.1: 17, 20, 29, 31, 49.
+* Section 5.2: 21, 26, 27, 33, 39, 47.
+* Section 5.3: 9, 12, 29, 48, 53, 66. 
+* Section 5.4: 9, 38, 40, 47, 57, 64.
+* Section 5.5: 4, 6, 7, 21, 37, 41, 44, 45, 54, 59, 92, 94.
 ## Additional Practice
 * Prof. Arrington's material ([link](http://www.math.pitt.edu/~earr/Math-1020/Math0120Base.html))
 * Prof. Everest's material ([link](http://www.math.pitt.edu/~evt3/0120/))
