@@ -50,6 +50,10 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Section 5.3: 9, 12, 29, 48, 53, 66. 
 * Section 5.4: 9, 38, 40, 47, 57, 64.
 * Section 5.5: 4, 6, 7, 21, 37, 41, 44, 45, 54, 59, 92, 94.
+## Quizzes
+Quiz 1 ([1](https://ivanrazu.github.io/files/Q1.pdf)).
+Quiz 2 ([2](https://ivanrazu.github.io/files/Q2.pdf)).
+Quiz 3 ([3](https://ivanrazu.github.io/files/Q3.pdf)).
 ## Additional Practice
 * Prof. Arrington's material ([link](http://www.math.pitt.edu/~earr/Math-1020/Math0120Base.html))
 * Prof. Everest's material ([link](http://www.math.pitt.edu/~evt3/0120/))
