@@ -49,7 +49,7 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Section 5.2: 21, 26, 27, 33, 39, 47.
 * Section 5.3: 9, 12, 29, 48, 53, 66. 
 * Section 5.4: 9, 38, 40, 47, 57, 64.
-* Section 5.5: 4, 6, 7, 21, 37, 41, 44, 45, 54, 59, 92, 94.
+* Section 5.6: 4, 6, 7, 21, 37, 41, 44, 45, 54, 59, 92, 94.
 ## Quizzes
 * Quiz 1 ([link](https://ivanrazu.github.io/files/Q1.pdf)).
 * Quiz 2 ([link](https://ivanrazu.github.io/files/Q2.pdf)).
