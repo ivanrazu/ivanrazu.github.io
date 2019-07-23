@@ -50,11 +50,6 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Section 5.3: 9, 12, 29, 48, 53, 66. 
 * Section 5.4: 9, 38, 40, 47, 57, 64.
 * Section 5.6: 4, 6, 7, 21, 37, 41, 44, 45, 54, 59, 92, 94.
-## Quizzes
-* Quiz 1 ([link](https://ivanrazu.github.io/files/Q1.pdf)).
-* Quiz 2 ([link](https://ivanrazu.github.io/files/Q2.pdf)).
-* Quiz 3 ([link](https://ivanrazu.github.io/files/Q3.pdf)).
-* Quiz 4 ([link](https://ivanrazu.github.io/files/Q4.pdf)).
 ## Suggested exercises for week 6
 * Section 6.5: 29, 32, 41, 42, 46, 47, 55, 63.
 * Section 6.6: 17, 21, 29, 42, 43, 62, 65.
@@ -62,6 +57,11 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Section 7.2: 3, 9, 15, 16, 25, 27, 29, 32, 39, 46.
 * Section 7.3: 5, 11, 14, 19, 22, 24, 35.
 * Swction 7.5: 7, 15, 17, 22, 25, 29, 40, 41.
+## Quizzes
+* Quiz 1 ([link](https://ivanrazu.github.io/files/Q1.pdf)).
+* Quiz 2 ([link](https://ivanrazu.github.io/files/Q2.pdf)).
+* Quiz 3 ([link](https://ivanrazu.github.io/files/Q3.pdf)).
+* Quiz 4 ([link](https://ivanrazu.github.io/files/Q4.pdf)).
 ## Additional Practice
 * Prof. Arrington's material ([link](http://www.math.pitt.edu/~earr/Math-1020/Math0120Base.html))
 * Prof. Everest's material ([link](http://www.math.pitt.edu/~evt3/0120/))
