@@ -55,6 +55,13 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Quiz 2 ([link](https://ivanrazu.github.io/files/Q2.pdf)).
 * Quiz 3 ([link](https://ivanrazu.github.io/files/Q3.pdf)).
 * Quiz 4 ([link](https://ivanrazu.github.io/files/Q4.pdf)).
+## Suggested exercises for week 6
+* Section 6.5: 29, 32, 41, 42, 46, 47, 55, 63.
+* Section 6.6: 17, 21, 29, 42, 43, 62, 65.
+* Section 7.1: 5, 6, 7, 8, 11.
+* Section 7.2: 3, 9, 15, 16, 25, 27, 29, 32, 39, 46.
+* Section 7.3: 5, 11, 14, 19, 22, 24, 35.
+* Swction 7.5: 7, 15, 17, 22, 25, 29, 40, 41.
 ## Additional Practice
 * Prof. Arrington's material ([link](http://www.math.pitt.edu/~earr/Math-1020/Math0120Base.html))
 * Prof. Everest's material ([link](http://www.math.pitt.edu/~evt3/0120/))
