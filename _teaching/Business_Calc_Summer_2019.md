@@ -54,6 +54,7 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Quiz 1 ([link](https://ivanrazu.github.io/files/Q1.pdf)).
 * Quiz 2 ([link](https://ivanrazu.github.io/files/Q2.pdf)).
 * Quiz 3 ([link](https://ivanrazu.github.io/files/Q3.pdf)).
+* Quiz 4 ([link](https://ivanrazu.github.io/files/Q4.pdf)).
 ## Additional Practice
 * Prof. Arrington's material ([link](http://www.math.pitt.edu/~earr/Math-1020/Math0120Base.html))
 * Prof. Everest's material ([link](http://www.math.pitt.edu/~evt3/0120/))
