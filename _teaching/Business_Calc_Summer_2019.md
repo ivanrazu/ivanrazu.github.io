@@ -51,6 +51,7 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Section 5.4: 9, 38, 40, 47, 57, 64.
 * Section 5.6: 4, 6, 7, 21, 37, 41, 44, 45, 54, 59, 92, 94.
 ## Suggested exercises for week 6
+* Section 6.1: 10, 14, 22, 27, 34, 37.
 * Section 6.5: 29, 32, 41, 42, 46, 47, 55, 63.
 * Section 6.6: 17, 21, 29, 42, 43, 62, 65.
 * Section 7.1: 5, 6, 7, 8, 11.
