@@ -63,7 +63,7 @@ You can find a pdf version of my syllabus here ([link](https://ivanrazu.github.i
 * Quiz 2 ([link](https://ivanrazu.github.io/files/Q2.pdf)).
 * Quiz 3 ([link](https://ivanrazu.github.io/files/Q3.pdf)).
 * Quiz 4 ([link](https://ivanrazu.github.io/files/Q4.pdf)).
-# Review Worksheets
+## Review Worksheets
 * W1 ([link](https://ivanrazu.github.io/files/W1.pdf)).
 * W2 ([link](https://ivanrazu.github.io/files/W2.pdf)).
 * W3 ([link](https://ivanrazu.github.io/files/W3.pdf)).
