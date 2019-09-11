@@ -7,15 +7,17 @@ redirect_from:
   - /research
 ---
 
-I am interested in developing mathematical models to study the dynamics of inflammation and immune response. 
-I use ordinary and partial differential equations to develop such models. We conduct analytic and numerical explorations such as bifurcation analysis of these models which provide a rich inside of the biology of the problem. We also perform parameter estimation techniques such as Ordinary Least Squares, Monte Carlo Markov Chains (MCMC) algorithms, and variations of these like Delayed Rejection Adaptive Metropolis (DRAM) to fit these models to animal and human data.  
-I am also interested in implementing optimal control to our models to find ideal treatment strategies to fight infectious diseases.  
+I am interested in developing mathematical models to study the dynamics of inflammation and immune response. In particular, I am interested in understanding the role of energetics in the acute immune response during sepsis.  
+I use ordinary differential equations to develop such models. Once a model is tuned, we conduct analytic and numerical explorations such as bifurcation analysis of these models which provide a rich inside of the biology of the problem. In optimal situations these models can be used to predict patient outcome and help to reduce mortality by introducing therapy at the right moment. As part of the model tunning, we perform parameter space reduction, like structural and practical identifiability, sensitivity analysis, parameter correlation with the end goal of obtaining parameter estimates trhough different techniques such as Ordinary Least Squares, Monte Carlo Markov Chains (MCMC) algorithms, and variations of these like Delayed Rejection Adaptive Metropolis (DRAM).  
+I am also interested in implementing optimal control to our models to find best treatment strategies to fight an infection.  
 
 ## Projects
 
 ### Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response.
 
-* Several studies have found a relation between sepsis and low levels of adenosine triphosphate (ATP) combined with overproduction of lactate and nitric oxide (NO). In this project we developed a system of ordinary differential equations to study the dynamics of the acute inflammatory response and its interactions with the production and demand of ATP.
+* Several studies have found a relation between sepsis and low levels of adenosine triphosphate (ATP) combined with overproduction of lactate and nitric oxide (NO). In this project we developed a system of ordinary differential equations to study the dynamics of the acute inflammatory response and its interactions with the production and demand of ATP. 
+
+We also explored some altered metabolic states such as hypoglycemia, hyperglycemia, and hypoxia in the presence of sepsis obtaining consistent resuts with the literture.
 
 
 
