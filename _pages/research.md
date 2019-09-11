@@ -7,8 +7,9 @@ redirect_from:
   - /research
 ---
 
-I am interested in developing mathematical models to study the dynamics of inflammation and immune response. In particular, I am interested in understanding the role of energetics in the acute immune response during sepsis.  
-I use ordinary differential equations to develop such models. Once a model is tuned, we conduct analytic and numerical explorations such as bifurcation analysis of these models which provide a rich inside of the biology of the problem. In optimal situations these models can be used to predict patient outcome and help to reduce mortality by introducing therapy at the right moment. As part of the model tunning, we perform parameter space reduction, like structural and practical identifiability, sensitivity analysis, parameter correlation with the end goal of obtaining parameter estimates trhough different techniques such as Ordinary Least Squares, Monte Carlo Markov Chains (MCMC) algorithms, and variations of these like Delayed Rejection Adaptive Metropolis (DRAM).  
+I am interested in developing mathematical models to study the dynamics of inflammation and immune response. In particular, I am interested in understanding the role of energetics in the acute immune response during sepsis.  In general we ordinary differential equations to develop such models. Although it is also common to use partial and stochastic differential equations. 
+
+Once a model is well tuned, we conduct analytic and numerical explorations such as bifurcation analysis of these models which provide a rich inside of the biology of the problem. In optimal situations these models can be used to predict patient outcome and help to reduce mortality by introducing therapy at the right moment. As part of the model tunning, we perform parameter space reduction, like structural and practical identifiability, sensitivity analysis, parameter correlation with the end goal of obtaining parameter estimates trhough different techniques such as Ordinary Least Squares, Monte Carlo Markov Chains (MCMC) algorithms, and variations of these like Delayed Rejection Adaptive Metropolis (DRAM).  
 I am also interested in implementing optimal control to our models to find best treatment strategies to fight an infection.  
 
 ## Projects
