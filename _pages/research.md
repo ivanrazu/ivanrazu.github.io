@@ -19,6 +19,8 @@ I am also interested in implementing optimal control to our models to find best 
 * Several studies have found a relation between sepsis and low levels of adenosine triphosphate (ATP) combined with overproduction of lactate and nitric oxide (NO). In this project we developed a system of ordinary differential equations to study the dynamics of the acute inflammatory response and its interactions with the production and demand of ATP. 
 We also explored some altered metabolic states such as hypoglycemia, hyperglycemia, and hypoxia in the presence of sepsis obtaining consistent resuts with the literture.
 
+### A Data-driven Mathematical Study of the Role of Energy in Sepsis.
 
+* Building up on our previous model, we are currently working on determining main diferences across survivors and non-survivors on a study done on thirty-two baboons of the species Papio ursinus that were sedated, and 2 ×10^9 colony forming units per kilogram of Escherichia coli (E. coli) were infused IV into each subject over 2 hours. Our main goal is to identify the rolle of energetics in each of the groups and to determine cause of death for the non-survivor cohort.  
 
 {% include base_path %}
