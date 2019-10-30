@@ -11,7 +11,7 @@ redirect_from:
     
 I am originally from Costa Rica where I completed my undergraduate studies in Mathematics at [Universidad de Costa Rica](https://www.ucr.ac.cr/).
 
-Later, I completed my Masters in Mathematics at East Tennessee State University. Currently, I am PhD candidate at University of Pittsburgh in the department of Mathematics [Mathematics department at the University of Pittsburgh](https://www.mathematics.pitt.edu/). 
+Later, I completed my Masters in Mathematics at[ East Tennessee State University (http://www.etsu.edu/ehome/)].  Currently, I am PhD candidate at University of Pittsburgh in the department of Mathematics [Mathematics department at the University of Pittsburgh](https://www.mathematics.pitt.edu/). 
 
 My area of research focuses in the development of mathematical models to study the underlying dynamics of problems arising from immunology, oncology, epidemiology, population dynamics, infectious diseases, and many other areas of the life sciences.  
 
