@@ -35,7 +35,7 @@ epidemiology, parameter estimation.
 * I. Ramirez Zuniga. (2014). "Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection." Electronic Theses and Dissertations. Paper 2425. ([Link](https://dc.etsu.edu/etd/2425)).
 
 ## Talks and Poster Presentations
-* Talk: "A Data-driven Mathematical Study of the Role of Energy in Sepsis" at the Joint Mathematics Meeting (JMM), Denver CO, January 2020.
+* Talk: "A Data-driven Mathematical Study of the Role of Energy in Sepsis" at the Joint Mathematics Meetings (JMM), Denver CO, January 2020.
 * Poster presentation: "A Data-driven Mathematical Study of the Role of Energy in Sepsis" at the workshop :Summit on the Rules of Life at The Mathematical Biosciences Institute (MBI), Columbus OH, June 2019.
 * Talk: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the Biology and Medicine Through Mathematics Conference (BAMM), Virginia Commonwealth University, Richmond VA, May 2019.
 * Talk: "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response" at the AMS Microconference on Parameter Estimation at the Marriot City Center, Minneapolis MN, August 2018.
@@ -47,6 +47,7 @@ epidemiology, parameter estimation.
 * Poster presentation: "Proyecto 6x4 UEALC"at the Week of Methods to Reduce Dimension in Data Analysis at Centro de Investigaciones Matematicas , CIMAT, Guanajuato, Mexico.
   
 ## Attended Conferences, Workshops, and Summer Schools
+* Joint Mathematics Meetings (JMM), Denver CO, January 2020.
 * Workshop: Summit on the Rules of Life at The Mathematical Biosciences Institute (MBI), Columbus OH, June 2019.
 * Biology and Medicine Through Mathematics Conference (BAMM), Virginia Commonwealth University, Richmond VA, May 2019.
  * Joint Mathematics Meetings (JMM), Baltimore MD, January 2019.
