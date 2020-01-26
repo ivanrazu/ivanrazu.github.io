@@ -1,4 +1,9 @@
 var addressPoints = [
+   [
+    "Denver CO, USA",    
+     39.7422, 
+     -104.9969
+  ],  
   [
     "Virginia Commonwealth University, Richmond VA, USA",    
   37.5485,
