@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ivan Ramirez Zuniga"
+title                    : "Ivan Ramirez Zuniga, PhD"
 title_separator          : "-"
 name                     : &name "Ivan Ramirez Zuniga"
-description              : &description "PhD student at the Mathematics Department at University of Pittsburgh"
+description              : &description "Postdoctoral fellow in the Department of Pediatrics in the College of Medicine, at University of Tennessee Health Science Center"
 url                      : https://ivanrazu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
