@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ivan Ramirez Zuniga"
+  name             : "Ivan Ramirez Zuniga, PhD"
   avatar           : "profile_pic2.png"
-  bio              : "PhD student in the Mathematics department at University of Pittsburgh."
-  location         : "317 Thackeray Hall"
+  bio              : "Postdoctoral fellow in the Department of Pediatrics in the College of Medicine, at University of Tennessee Health Science Center."
+  location         : "Memphis, TN"
   employer         :
   googlescholar    : 
-  email            : "ivr3@pitt.edu"
+  email            : "iramire1@uthsc.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/IvanRaZu"
   vine             :
   weibo            :
   xing             :
