@@ -16,7 +16,7 @@ You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CVIv
 
 
 ## Education
-* Ph.D in Mathematics, University of Pittsburgh, 2020 (expected).
+* Ph.D in Mathematics, University of Pittsburgh, 2020.
 * M.S. in Mathematics, East Tennesse State University, 2014.
 * B.S. in Mathematics, Universidad de Costa Rica, 2010.
 
