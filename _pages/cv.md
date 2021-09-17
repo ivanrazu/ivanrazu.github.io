@@ -106,4 +106,4 @@ epidemiology, parameter estimation.
   * LaTeX
   
 ## Licenses and Certifications
-  * Erdos Data Science Bootcamp, June 2021 See certificate [here](https://www.erdosinstitute.org/may2021certificates/ivan-ramirez-zuniga)
+  * Erdos Data Science Bootcamp, June 2021 See certificate [here](https://www.erdosinstitute.org/may2021certificates/ivan-ramirez-zuniga).
