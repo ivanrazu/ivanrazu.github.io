@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-[1] I. Ramirez-Zuniga, J.E. Rubin, D.Swigon, G. Clermont, H. Redl. "A data-driven model of the role of energy in sepsis". Submitted, (2021).
+[1] I. Ramirez-Zuniga, J.E. Rubin, D.Swigon, G. Clermont, H. Redl. "A data-driven model of the role of energy in sepsis". "Journal of Theoretical Biology", Volume 533, (2022). [(<p style="color:blue;">Link</p>)](https://authors.elsevier.com/a/1e5Kr57im8GQO)
 
 [2] I. Ramirez-Zuniga, J.E. Rubin, D. Swigon, and G. Clermont. "Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response."Journal of Theoretical Biology, 460, 101-114 (2019). [(Link)](https://www.sciencedirect.com/science/article/pii/S0022519318304120)
 
