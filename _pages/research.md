@@ -24,6 +24,6 @@ We also explored some altered metabolic states such as hypoglycemia, hyperglycem
 
 * Building up on our previous model, we developed a mathematical model to determine main diferences across survivors and non-survivors on a sepsis study done on thirty-two  baboons. We identified parameters that help to predict survival outcomes and also highlights energy dependent factors that modulate the immune response.
 
-![image1](files/image2.png)
+![image1](images/Wiring_diagram_extended.png)
 
 {% include base_path %}
