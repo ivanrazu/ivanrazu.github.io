@@ -26,4 +26,6 @@ We also explored some altered metabolic states such as hypoglycemia, hyperglycem
 
 ![image1](/images/Wiring_diagram_extended.png)
 
+<img src="/images/Wiring_diagram_extended.png" alt="drawing" width="100"/>
+
 {% include base_path %}
