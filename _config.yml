@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Ivan Ramirez Zuniga, PhD"
   avatar           : "profile_pic2.png"
-  bio              : "Postdoctoral fellow in the Department of Pediatrics in the College of Medicine, at University of Tennessee Health Science Center.\n Email: iramire1@uthsc.edu"
+  bio              : "Postdoctoral fellow in the Department of Pediatrics in the College of Medicine, at University of Tennessee Health Science Center.\n  Email: iramire1@uthsc.edu"
   location         : "Memphis, TN"
   employer         :
   googlescholar    : 
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1052-8306"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
