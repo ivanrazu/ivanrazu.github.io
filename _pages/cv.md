@@ -21,15 +21,16 @@ You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CVIv
 * B.S. in Mathematics, Universidad de Costa Rica, 2010.
 
 ## Research Interests
-* Mathematical immunology and bioenergetics, infectious diseases, optimal control, differential equations,
-epidemiology, parameter estimation.
- 
+ * Mathematical immunology and immunometabolism, mathematical modeling, parameter estimation, uncertainty quantification, infectious diseases, pathogen-host viral dynamics, optimal control,  epidemiology, population dynamics, data science and machine learning.
+ * 
 ## Awards
+* Diversity Supplement (AI139088), 2020-2023, NIH/NIAID Program Project Award (R01), PI: Dr. Amber Smith.
 * Andrew Mellon Predoctoral Fellowship, University of Pittsburgh, 2019-2020.
 * Arts and Sciences Graduate Fellowship, University of Pittsburgh, 2014-2015.
   
 ## Publications
-* I. Ramirez Zuniga, Jonathan E. Rubin, David Swigon, Gilles Clermont, and Heinz Redl. A data-driven model of the role of energy in sepsis. Submitted to Journal of Theoretical Biology, (2021).
+* A.P. Smith, L.C. Lane,  I. Ramirez-Zuniga, D.J. Moquin, P. Vogel, A.M. Smith (2021). Increased Virus Dissemination Leads to Enhanced Lung Injury But Not Inflammation During Influenza-Associated Secondary Bacterial Infection. (under review).
+* I. Ramirez Zuniga, Jonathan E. Rubin, David Swigon, Gilles Clermont, and Heinz Redl. A data-driven model of the role of energy in sepsis. Journal of Theoretical Biology. Volume 533. (2022).
 * I. Ramirez Zuniga, Jonathan E. Rubin, David Swigon, and Gilles Clermont. Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response. Journal of Theoretical Biology, 460. 101-114, (2019).
 ([Link](https://www.sciencedirect.com/science/article/pii/S0022519318304120)).
 * R. Brady, C. Puelz, I. Ramirez Zuniga, K. Larripa, M.S. Olufsen (2017). "A coupled model exploring the cardiovascular response to an acute inflammatory event." Proc 5th Int Conf Comp Math Biomed Eng (CMBE), Vol 1, 336-339. ([Link](http://www.compbiomed.net/2017/cmbe-proceedings.htm)).
@@ -106,4 +107,5 @@ epidemiology, parameter estimation.
   * LaTeX
   
 ## Licenses and Certifications
+  * Diversity Certificate Program, November 2021.
   * Erdos Data Science Bootcamp, June 2021 See certificate [here](https://www.erdosinstitute.org/may2021certificates/ivan-ramirez-zuniga).
