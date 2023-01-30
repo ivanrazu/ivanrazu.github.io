@@ -29,7 +29,7 @@ You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CVIv
 * Arts and Sciences Graduate Fellowship, University of Pittsburgh, 2014-2015.
   
 ## Publications
-* A.P. Smith, L.C. Lane,  I. Ramirez-Zuniga, D.J. Moquin, P. Vogel, A.M. Smith (2021). Increased Virus Dissemination Leads to Enhanced Lung Injury But Not Inflammation During Influenza-Associated Secondary Bacterial Infection. (under review).
+* A.P. Smith, L.C. Lane,  I. Ramirez-Zuniga, D.J. Moquin, P. Vogel, A.M. Smith (2022). Increased Virus Dissemination Leads to Enhanced Lung Injury But Not Inflammation During Influenza-Associated Secondary Bacterial Infection.FEMS Microbes, Volume 3, 2022, xtac022, [Link](https://academic.oup.com/femsmicrobes/article/doi/10.1093/femsmc/xtac022/6649651).
 * I. Ramirez Zuniga, Jonathan E. Rubin, David Swigon, Gilles Clermont, and Heinz Redl. A data-driven model of the role of energy in sepsis. Journal of Theoretical Biology. Volume 533. (2022).
 * I. Ramirez Zuniga, Jonathan E. Rubin, David Swigon, and Gilles Clermont. Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response. Journal of Theoretical Biology, 460. 101-114, (2019).
 ([Link](https://www.sciencedirect.com/science/article/pii/S0022519318304120)).
