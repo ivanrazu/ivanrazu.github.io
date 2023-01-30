@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-[1] Smith, AP, Lane, LC, Ramirez-Zuniga, I, Moquin, DJ, Vogel, P, Smith, AM. (2021). Increased Virus Dissemination Leads to Enhanced Lung Injury But Not Inflammation During Influenza-Associated Secondary Bacterial Infection. (submitted)
+[1] Smith, AP, Lane, LC, Ramirez-Zuniga, I, Moquin, DJ, Vogel, P, Smith, AM. (2022). Increased Virus Dissemination Leads to Enhanced Lung Injury But Not Inflammation During Influenza-Associated Secondary Bacterial Infection. [(Link)](https://academic.oup.com/femsmicrobes/article/doi/10.1093/femsmc/xtac022/6649651)
 
 [2] I. Ramirez-Zuniga, J.E. Rubin, D.Swigon, G. Clermont, H. Redl. "A data-driven model of the role of energy in sepsis". "Journal of Theoretical Biology", Volume 533, (2022). [(Link)](https://authors.elsevier.com/a/1e5Kr57im8GQO)
 
