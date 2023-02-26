@@ -42,9 +42,8 @@ var addressPoints = [
   [
     "CIMAT, Guanajuato, MX",
     21.0421,
-    -101.2612  
-  ]   
-   
+    -101.2612 
+  ],   
   [
     "RESVINET 23, Lisbon, PT",
     38.72553155955567, 
