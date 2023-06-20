@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /research
 ---
-You can find a pdf version of my Research Statement [here](https://ivanrazu.github.io/files/Research_statement_Ivan.pdf).
+#You can find a pdf version of my Research Statement [here](https://ivanrazu.github.io/files/Research_statement_Ivan.pdf).
 
 I am interested in developing mathematical models to study the dynamics of inflammation and immune response. In particular, I am interested in understanding the role of energetics in the acute immune response during sepsis.  In general we use ordinary differential equations to develop such models, although it is also common to use partial and stochastic differential equations. 
 
