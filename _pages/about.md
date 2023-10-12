@@ -13,7 +13,7 @@ I am originally from Costa Rica where I completed my undergraduate studies in Ma
 
 I specialize in developing mathematical models—both theoretical and data-driven—to elucidate the intricate dynamics of pathogenic infections. My primary focus is on understanding the interplay between cellular metabolism, energy production, and consumption during infections, investigating whether disruptions in energy availability contribute to systemic inflammation and sepsis. Additionally, I am interested in data and statistical analysis within the public health and the biomedical field. My approach involves leveraging machine learning tools to extract pertinent information and used this information to develop probabilistic or deterministic mathematical models to test and create new hypothesis. 
 
-More generally, I am interested in using mathematical models to study the underlying dynamics of problems arising from immunology, oncology, epidemiology, population dynamics, infectious diseases, and many other areas of the life sciences. 
+More generally, I am interested in using mathematical tools to study the underlying dynamics of problems arising from immunology, oncology, epidemiology, population dynamics, infectious diseases, and many other areas of the life sciences. 
 
 
 
