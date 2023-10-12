@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Recitation Math 0450. Intro to Analysis Honors"
 collection: teaching
 type: "Prof. C. Lennard"
@@ -7,7 +7,7 @@ venue: "University of Pittsburgh, Department of Mathematics"
 date: 2019-01-07
 location: "Pittsburgh, USA"
 ---
-
+-->
 
 
 
