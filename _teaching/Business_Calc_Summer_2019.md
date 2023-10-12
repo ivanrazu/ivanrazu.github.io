@@ -1,4 +1,4 @@
----
+<!---
 permalink: /
 layout: archive
 author_profile: true
@@ -13,6 +13,6 @@ redirect_from:
   -/resume.html
 location: "Pittsburgh, USA"
 ---
-
+-->
 
 
