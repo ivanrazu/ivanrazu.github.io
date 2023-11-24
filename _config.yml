@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ivan Ramirez Zuniga, PhD"
 title_separator          : "-"
 name                     : &name "Ivan Ramirez Zuniga"
-description              : &description "Postdoctoral fellow in the Department of Pediatrics in the College of Medicine, at University of Tennessee Health Science Center. Email: iramire1@uthsc.edu"
+description              : &description "Mathematical Biologist. Email: ivanrazu@gmail.com"
 url                      : https://ivanrazu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
