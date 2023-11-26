@@ -30,12 +30,12 @@ and generate/test hypotheses to be validated through further experiments.
 * Several studies have found a relation between sepsis and low levels of adenosine triphosphate (ATP) combined with overproduction of lactate and nitric oxide (NO). In this project we developed a system of ordinary differential equations to study the dynamics of the acute inflammatory response and its interactions with the production and demand of ATP. 
 We also explored some altered metabolic states such as hypoglycemia, hyperglycemia, and hypoxia in the presence of sepsis obtaining consistent resuts with the literture.
 
-(A)                                                                   (B)       
+                                                                          
 <img src="/images/wiring_diagram_2.png" alt="drawing" width="500"/>   <img src="/images/bif_diagram (1).png" alt="drawing" width="500"/>
 
-(A) Interactions between the eight variables of the system of equations in the model. P corresponds
+(Left) Interactions between the eight variables of the system of equations in the model. P corresponds
 to pathogens, D tissue damage, N phagocytes, CA anti-inflammatory mediators, X nitric oxide, L lactate, and ATP
-adenosine triphosphate. (B) Bifurcation diagram for model equations on. Equilibrium states are illustrated with
+adenosine triphosphate. (Right) Bifurcation diagram for model equations on. Equilibrium states are illustrated with
 red solid curves (stable), shown with dashed curves (unstable), or not shown at all if non-physiological. The three
 stable equilibrium states correspond to healthy, aseptic (infection is resolved but inflammation persists), and septic
 (infection and inflammation persist) states.
@@ -51,10 +51,16 @@ the groups and determined the possible causes of death of the non-survivor cohor
 
 <img src="/images/Wiring_diagram_extended.png" alt="drawing" width="700"/>
 
-
+Interactions between the 12 variables of the system of equations in the model. P corresponds
+to pathogens, D tissue damage, N phagocytes, CA anti-inflammatory mediators, X nitric oxide, L lactate, ATP
+adenosine triphosphate, LPS lipopolysachiride, Nit nitrate, G glucose, Y pyruvate, and Gly glycogen.
 
  <img src="/images/Ab (1).jpg" alt="drawing" width="400"/>     <img src="/images/N (1).jpg" alt="drawing" width="400"/>     
 
-
+Predicted intervals of the ATP and phagocytes model trajectories obtained with parameters
+from survivor (blue) and non-survivor (red) distributions. The model suggested survivor individuals were able to
+recover their ATP loss during the infection, whereas in non-survivors energy depletion was a potential reason for
+death. Similarly, phagocyte activity remained elevated in non-survivors while baseline levels were attained in the
+survivor cohort
 
 
