@@ -45,7 +45,7 @@ Using our model we generated a set of virtual patients by introducing variabilit
 <img src="/images/maxD_P0_NORMAL.jpg" alt="drawing" width="400"/>    <img src="/images/maxD_P0_Trshld_NORMAL.jpg" alt="drawing" width="400"/>
 
 
-Representation of virtual subjects projected on the initial pathogen load (P0) - pathogen growth rate (kpg) plane (left) and projected on the P0 - maximum damage vaule attained over the course of patient simulation.
+Representation of virtual subjects projected on the initial pathogen load ($P_0$) - pathogen growth rate ($k_{pg}$) plane (left) and projected on the $P_0$ - maximum damage vaule attained over the course of patient simulation.
 
 ### A Data-driven Mathematical Study of the Role of Energy in Sepsis.
 
