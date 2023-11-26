@@ -49,7 +49,7 @@ ensemble representing the full cohort of experimental subjects. We found importa
 differences across survivors and non-survivors and identified the role of energetics in each of
 the groups and determined the possible causes of death of the non-survivor cohort.
 
-<img src="/images/Wiring_diagram_extended.png" alt="drawing" width="700"/>
+<img src="/images/Wiring_diagram_extended.png" alt="drawing" width="500"/>
 
 Interactions between the 12 variables of the system of equations in the model. P corresponds
 to pathogens, D tissue damage, N phagocytes, CA anti-inflammatory mediators, X nitric oxide, L lactate, ATP
