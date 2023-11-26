@@ -42,7 +42,7 @@ We also explored some altered metabolic states such as hypoglycemia, hyperglycem
 
 
 | ------------------------------------------ | ----------------------------------------- |
-| ![Image 1](ivanrazu.github.io/images/Ab (1).jpg)            | ![Image 2](ivanrazu.github.io/images/N (1).jpg)            |
+| !<img src="/images/Ab (1),jpg" alt="drawing" width="400"/>           | !<img src="/images/N (1).jpg" alt="drawing" width="400"/>     |
 
 
 
