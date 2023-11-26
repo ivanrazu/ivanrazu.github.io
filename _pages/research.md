@@ -31,7 +31,7 @@ and generate/test hypotheses to be validated through further experiments.
 We also explored some altered metabolic states such as hypoglycemia, hyperglycemia, and hypoxia in the presence of sepsis obtaining consistent resuts with the literture.
 
                                                                           
-<img src="/images/wiring_diagram_2.png" alt="drawing" width="500"/>   <img src="/images/bif_diagram (1).png" alt="drawing" width="500"/>
+<img src="/images/wiring_diagram_2.png" alt="drawing" width="400"/>    <img src="/images/bif_diagram (1).png" alt="drawing" width="400"/>
 
 (Left) Interactions between the eight variables of the system of equations in the model. P corresponds
 to pathogens, D tissue damage, N phagocytes, CA anti-inflammatory mediators, X nitric oxide, L lactate, and ATP
