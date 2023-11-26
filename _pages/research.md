@@ -27,8 +27,7 @@ and generate/test hypotheses to be validated through further experiments.
 
 ### Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response.
 
-* Several studies have found a relation between sepsis and low levels of adenosine triphosphate (ATP) combined with overproduction of lactate and nitric oxide (NO). In this project we developed a system of ordinary differential equations to study the dynamics of the acute inflammatory response and its interactions with the production and demand of ATP. 
-We also explored some altered metabolic states such as hypoglycemia, hyperglycemia, and hypoxia in the presence of sepsis obtaining consistent resuts with the literture.
+* Several studies have found a relation between sepsis and low levels of adenosine triphosphate (ATP) combined with overproduction of lactate and nitric oxide (NO). In this project we developed a system of ordinary differential equations to study the dynamics of the acute inflammatory response and its interactions with the production and demand of ATP. We also explored some altered metabolic states such as hypoglycemia, hyperglycemia, and hypoxia in the presence of sepsis obtaining consistent resuts with the literture.
 
                                                                           
 <img src="/images/wiring_diagram_2.png" alt="drawing" width="400"/>    <img src="/images/bif_diagram (1).png" alt="drawing" width="400"/>
@@ -39,6 +38,11 @@ adenosine triphosphate. (Right) Bifurcation diagram for model equations on. Equi
 red solid curves (stable), shown with dashed curves (unstable), or not shown at all if non-physiological. The three
 stable equilibrium states correspond to healthy, aseptic (infection is resolved but inflammation persists), and septic
 (infection and inflammation persist) states.
+
+Using our model we generated a set of virtual patients by introducing variability to sensitive parameters. Simulating the time courses of their inflammatory responses until reaching one of the model equilibrium states, healthy, aseptic, or septic and defining the time of death as the time at which tissue damage reaches certain threshold we classified patients between survivors and no survivors. 
+
+<img src="/images/maxD_P0_NORMAL.png" alt="drawing" width="400"/>    <img src="/images/maxD_P0_Trshld_NORMAL.png" alt="drawing" width="400"/>
+Representation of virtual subjects projected on the initial pathogen load (P0) - pathogen growth rate (kpg) plane (left) and projected on the P0 - maximum damage vaule attained over the course of patient simulation.
 
 ### A Data-driven Mathematical Study of the Role of Energy in Sepsis.
 
