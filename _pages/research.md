@@ -42,7 +42,7 @@ stable equilibrium states correspond to healthy, aseptic (infection is resolved 
 Using our model we generated a set of virtual patients by introducing variability to sensitive parameters. Simulating the time courses of their inflammatory responses until reaching one of the model equilibrium states, healthy, aseptic, or septic and defining the time of death as the time at which tissue damage reaches certain threshold we classified patients between survivors and no survivors. 
 
 
-<img src="/images/maxD_P0_NORMAL.png" alt="drawing" width="400"/>    <img src="/images/maxD_P0_Trshld_NORMAL.png" alt="drawing" width="400"/>
+<img src="/images/maxD_P0_NORMAL.jpg" alt="drawing" width="400"/>    <img src="/images/maxD_P0_Trshld_NORMAL.jpg" alt="drawing" width="400"/>
 
 
 Representation of virtual subjects projected on the initial pathogen load (P0) - pathogen growth rate (kpg) plane (left) and projected on the P0 - maximum damage vaule attained over the course of patient simulation.
