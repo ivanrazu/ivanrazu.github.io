@@ -7,10 +7,21 @@ redirect_from:
   - /research
 ---
 
-I am interested in developing mathematical models to study the dynamics of inflammation and immune response. In particular, I am interested in understanding the role of energetics in the acute immune response during sepsis.  In general we use ordinary differential equations to develop such models, although it is also common to use partial and stochastic differential equations. 
-
-Once a model is well tuned, we conduct analytic and numerical explorations such as bifurcation analysis of these models which provide a rich inside of the biology of the problem. In optimal situations these models can be used to predict patient outcome and help to reduce mortality by introducing therapy at the right moment. As part of the model tunning, we perform parameter space reduction, like structural and practical identifiability, sensitivity analysis, parameter correlation with the end goal of obtaining parameter estimates through different techniques such as Ordinary Least Squares, Monte Carlo Markov Chains (MCMC) algorithms, and variations of these like Delayed Rejection Adaptive Metropolis (DRAM).  
-I am also interested in implementing optimal control to our models to find best treatment strategies to fight an infection.  
+I am an applied mathematician specializing in the use of mathematical tools to investigate biological
+problems. My primary line of research focuses in understanding the intricate relationship
+between immunometabolism and its implications in infectious diseases and inflammation using
+applied analysis and dynamical systems. More generally, I am interested in developing data-driven
+mechanistic models for understanding the underlying biology of specific biological processes including
+the dynamics of infectious diseases in populations and in hosts. When the complexity of
+the model allows it, I use dynamical systems theory and applied analysis techniques including parameter
+bifurcation to extract important information about the problem. In most cases however,
+these models cannot be solved analytically and it is necessary the use of existent or own written
+numerical packages. Analytic or numerical analysis of the model can reveal rich insights about
+the biology of the problem that would allow us to address relevant biological questions as well as
+generate and test new hypothesis. I am also interested in using statistical methods and machine
+learning algorithms to understand data patterns in clinical or experimental data, which can later
+inform the development of mathematical models to comprehend underlying biological mechanisms
+and generate/test hypotheses to be validated through further experiments. 
 
 ## Projects
 
