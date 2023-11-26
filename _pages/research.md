@@ -30,12 +30,24 @@ and generate/test hypotheses to be validated through further experiments.
 * Several studies have found a relation between sepsis and low levels of adenosine triphosphate (ATP) combined with overproduction of lactate and nitric oxide (NO). In this project we developed a system of ordinary differential equations to study the dynamics of the acute inflammatory response and its interactions with the production and demand of ATP. 
 We also explored some altered metabolic states such as hypoglycemia, hyperglycemia, and hypoxia in the presence of sepsis obtaining consistent resuts with the literture.
 
-<img src="/images/bif_diagram (1).png" alt="drawing" width="500"/>
+(A)                                                                   (B)       
+<img src="/images/wiring_diagram_2.png" alt="drawing" width="500"/>   <img src="/images/bif_diagram (1).png" alt="drawing" width="500"/>
+
+(A) Interactions between the eight variables of the system of equations in the model. P corresponds
+to pathogens, D tissue damage, N phagocytes, CA anti-inflammatory mediators, X nitric oxide, L lactate, and ATP
+adenosine triphosphate. (B) Bifurcation diagram for model equations on. Equilibrium states are illustrated with
+red solid curves (stable), shown with dashed curves (unstable), or not shown at all if non-physiological. The three
+stable equilibrium states correspond to healthy, aseptic (infection is resolved but inflammation persists), and septic
+(infection and inflammation persist) states.
 
 ### A Data-driven Mathematical Study of the Role of Energy in Sepsis.
 
-* Building up on our previous model, we developed a mathematical model to determine main diferences across survivors and non-survivors on a sepsis study done on thirty-two  baboons. We identified parameters that help to predict survival outcomes and also highlights energy dependent factors that modulate the immune response.
-
+* In a subsequent publication we further extended our model to include quantities that were measured from the blood of experimental
+subjects exposed to bacteria. By fitting model dynamics to experimental data, we derived
+parameter distributions corresponding to individual subjects’ responses as well as a parameter
+ensemble representing the full cohort of experimental subjects. We found important
+differences across survivors and non-survivors and identified the role of energetics in each of
+the groups and determined the possible causes of death of the non-survivor cohort.
 
 <img src="/images/Wiring_diagram_extended.png" alt="drawing" width="700"/>
 
