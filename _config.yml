@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ivan Ramirez Zuniga, PhD"
 title_separator          : "-"
 name                     : &name "Ivan Ramirez Zuniga"
-description              : &description "Mathematical Biologist. Email: ivanrazu@gmail.com"
+description              : &description "Mathematical Biologist. Email: i.ramirezzuniga@ufl.edu"
 url                      : https://ivanrazu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
