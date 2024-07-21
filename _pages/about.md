@@ -12,7 +12,7 @@ redirect_from:
 I am an Assistant Professor in the [Department of Mathematics](https://www.uttyler.edu/academics/colleges-schools/arts-sciences/departments/mathematics/faculty/) at The University of Texas at Tyler, with a joint courtesy appointment in the Department of [Epidemiology and Biostatistics](https://www.uttyler.edu/academics/colleges-schools/medicine/departments/epidemiology-and-biostatistics/) in the School of Medicine.
 
 Prior to joining UT Tyler, I was a postdoctoral associate in the [Laboratory for Systems Medicine](https://systemsmedicine.pulmonary.medicine.ufl.edu/)
- at the University of Florida, working under the supervision of[Dr. Luis Sordo Vieira. I also completed postdoctoral training at the [University of Tennessee Health Science Center](https://www.uthsc.edu/) in the Department of Pediatrics where I worked in the Laboratory of Dr. Amber Smith. 
+ at the University of Florida, working under the supervision of Dr. Luis Sordo Vieira. I also completed postdoctoral training at the [University of Tennessee Health Science Center](https://www.uthsc.edu/) in the Department of Pediatrics where I worked in the Laboratory of Dr. Amber Smith. 
  
 I am originally from Costa Rica where I completed my undergraduate studies in Mathematics at [Universidad de Costa Rica](https://www.ucr.ac.cr/). I completed a Masters in Mathematics at [East Tennessee State University](http://www.etsu.edu/ehome/) under the direction of Dr. Ariel Cintron-Arias.  Later, I obtained my PhD in Mathematics at [University of Pittsburgh](https://www.mathematics.pitt.edu/) where I worked under the supervision of Dr. Jonathan Rubin and Dr. David Swigonand in closed collaboration with Dr. Gilles Clermont.
 
