@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ivan Ramirez Zuniga, PhD"
 title_separator          : "-"
 name                     : &name "Ivan Ramirez Zuniga"
-description              : &description "Mathematical Biologist. Email: i.ramirezzuniga@ufl.edu"
+description              : &description "Mathematical Biologist. Email: iramirezzuniga@uttyler.edu"
 url                      : https://ivanrazu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Ivan Ramirez Zuniga, PhD"
   avatar           : "profile_pic2.png"
-  bio              : "Aplied Mathematician - Mathematical Biologist.\n  i.ramirezzuniga@ufl.edu"
+  bio              : "Aplied Mathematician - Mathematical Biologist.\n  iramirezzuniga@uttyler.edu"
   location         : "Memphis, TN"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=-jdNOdsAAAAJ&hl=en"
-  email            : " i.ramirezzuniga@ufl.edu"
+  email            : " iramirezzuniga@uttyler.edu"
   uri              :
   bitbucket        :
   codepen          :
