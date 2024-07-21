@@ -9,7 +9,7 @@ redirect_from:
 ---
 <!---![mypic](https://ivanrazu.github.io/images/profile_pic.png)---> 
 
-I am an Assistant Professor in the [Department of Mathematics](https://www.uttyler.edu/academics/colleges-schools/arts-sciences/departments/mathematics/faculty/) at The University of Texas at Tyler, with a joint courtesy appointment in the Department of Epidemiology and Biostatistics in the School of Medicine.
+I am an Assistant Professor in the [Department of Mathematics](https://www.uttyler.edu/academics/colleges-schools/arts-sciences/departments/mathematics/faculty/) at The University of Texas at Tyler, with a joint courtesy appointment in the Department of [Epidemiology and Biostatistics](https://www.uttyler.edu/academics/colleges-schools/medicine/departments/epidemiology-and-biostatistics/) in the School of Medicine.
 
 Prior to joining UT Tyler, I was a postdoctoral associate in the [Laboratory for Systems Medicine](https://systemsmedicine.pulmonary.medicine.ufl.edu/)
  at the University of Florida, working under the supervision of [Dr. Luis Sordo Vieira](https://directory.ufhealth.org/sordo-vieira-luis). I also completed postdoctoral training at the [University of Tennessee Health Science Center](https://www.uthsc.edu/) in the Department of Pediatrics where I worked in the Laboratory of [Dr. Amber Smith](https://ambersmithlab.com/). 
