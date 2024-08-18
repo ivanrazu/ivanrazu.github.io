@@ -114,6 +114,8 @@ You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CV_I
   * Mathematica
   * Maple
   * LaTeX
+  * Git and GitHub
+  * Anaconda
   
 ## Licenses and Certifications
   * Diversity Certificate Program, November 2021.
