@@ -70,8 +70,17 @@ You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CV_I
  * International Symposium of Applied Methods on Sciences, SIMAC, University of Costa Rica, San Jose, Costa Rica 2008.
  * International Symposium of Applied Methods on Sciences, SIMAC, University of Costa Rica, San Jose, Costa Rica 2006.
  
-## Teaching experience
-* Teaching Assistant, Fall 2014-Present Day. Department of Mathematics, University of Pittsburgh.
+## Experience
+* Postdoctoral Associate, January 2024-July 2024. Department of Medicine, Laboratory for Systems Medicine, University of Florida. PI: Dr. Luis Sordo Vieira.
+   * Developed mathematical models of an immune response to invasive aspergillosis. Methods: diferential equations and numerical simulations in Matlab and Python.     
+     
+* Postdoctoral Scholar, September 2020- September 2023. Department of Pediatrics, University of Tennessee Health Science Center. PI: Dr. Amber Smith.
+     * Developed mathematical models of influenza virus as a primary infection as wells as bacterial co-infection.  Methods: delayed differential equations, ordinary differential equations, mechanistic modeling, 
+       parameter estimation, bootstrap, numerical simulations.
+     * Performed data cleaning and data analysis of metabolomics data from viral infected and coinfected mice.  Methods: numerical simulations, statistic models, t-tests, ANOVA, principal components, linear and multiple 
+       regression, hierarchical clustering, classification algorithms.  
+
+* Teaching Assistant, Fall 2014-Summer 2020. Department of Mathematics, University of Pittsburgh.
    * Courses Taught: Math 0220 Calculus I, Math 0230 Calculus II, Math 0240 Calculus III, Math 0290 Differential Equations, Math 0280 Linear Algebra, Math 0450 Introduction to Analysis Honors.
    
 * Instructor, Summer 2019. Department of Mathematics, University of Pittsburgh.    
