@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CV_Ivan_Academic (6).pdf).
+You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CV_Ivan_UTTyler.pdf).
 
 
 ## Education
