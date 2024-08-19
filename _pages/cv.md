@@ -72,7 +72,7 @@ You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CV_I
  
 ## Experience
 * Postdoctoral Associate, January 2024-July 2024. Department of Medicine, Laboratory for Systems Medicine, University of Florida. PI: Dr. Luis Sordo Vieira.
-   * Developed mathematical models of an immune response to invasive aspergillosis. Methods: diferential equations and numerical simulations in Matlab and Python.     
+   * Developed mathematical models of an immune response to invasive aspergillosis. Methods: differential equations and numerical simulations in Matlab and Python.     
      
 * Postdoctoral Scholar, September 2020- September 2023. Department of Pediatrics, University of Tennessee Health Science Center. PI: Dr. Amber Smith.
      * Developed mathematical models of influenza virus as a primary infection as wells as bacterial co-infection.  Methods: delayed differential equations, ordinary differential equations, mechanistic modeling, 
