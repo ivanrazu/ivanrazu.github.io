@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-[1] Ramirez-Zuniga, I., MacLeod, W.B, Chikoti, C. , Kwenda, G., Lapidot, R., Gill, C.J., Smith, A.M. **Sequential RSV and bacterial infections in the nasopharynx of Zambian infants and mothers**(submitted).
+[1] **Ramirez-Zuniga, I.**, MacLeod, W.B, Chikoti, C. , Kwenda, G., Lapidot, R., Gill, C.J., Smith, A.M. **Sequential RSV and bacterial infections in the nasopharynx of Zambian infants and mothers**(submitted).
 
 [1] Smith, AP, Lane, LC, **Ramirez Zuniga**, I, Moquin, DJ, Vogel, P, Smith, A.M. (2022). [**Increased Virus Dissemination Leads to Enhanced Lung Injury but not Inflammation During Influenza-Associated Secondary Bacterial Infection**](https://academic.oup.com/femsmicrobes/article/doi/10.1093/femsmc/xtac022/6649651). FEMS Microbes, Volume 3, 2022, xtac022.
 
