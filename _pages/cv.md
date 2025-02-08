@@ -78,6 +78,7 @@ life sciences (LS22) (virtual), July 2022.
  * International Symposium of Applied Methods on Sciences, SIMAC, University of Costa Rica, San Jose, Costa Rica 2006.
  
 ## Experience
+* Assistant Professor, 2024-Present. Department of Mathematics. Depatment of Epidemiology and Biostatistics. The University of Texas at Tyler, 
 * Postdoctoral Associate, January 2024-July 2024. Department of Medicine, Laboratory for Systems Medicine, University of Florida. PI: Dr. Luis Sordo Vieira.
    * Developed mathematical models of an immune response to invasive aspergillosis. Methods: differential equations and numerical simulations in Matlab and Python.     
      
