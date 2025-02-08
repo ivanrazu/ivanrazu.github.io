@@ -37,6 +37,13 @@ You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CV_I
 * I. Ramirez Zuniga. (2014). "Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection." Electronic Theses and Dissertations. Paper 2425. ([Link](https://dc.etsu.edu/etd/2425)).
 
 ## Talks and Poster Presentations
+
+* Talk: “ Modeling the Dynamics of Alveolar Macrophages and Interferon Gamma During Influenza Infection ”. SIAM
+conference on applications of dynamical systems (DS23), Portland OR, May 2023.
+* Poster presentation: ”Sequential interactions between RSV and pneumococcus in the nasopharynx of Zambian infants
+and mothers”. ReSViNET Conference, Lisbon Portugal, Feb 2023.
+* Talk: ”Modeling the Energy Consumption During An Acute Inflammatory Response and Sepsis”. SIAM conference on the
+life sciences (LS22) (virtual), July 2022.
 * Talk: "A Data-driven Mathematical Study of the Role of Energy in Sepsis".  Society for Mathematical Biology (SMB21) (virtual),  June 2021.
 * Talk: "A Data-driven Mathematical Study of the Role of Energy in Sepsis".  SIAM conference on the life sciences (DS21) (virtual), May 2021.
 * Talk: "A Data-driven Mathematical Study of the Role of Energy in Sepsis" at the Joint Mathematics Meetings (JMM), Denver CO, January 2020.
