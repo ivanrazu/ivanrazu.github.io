@@ -1,5 +1,10 @@
 var addressPoints = [
 
+[
+"Tyler TX, USA",
+  32.3513,
+  -95.3011
+],  
   [
     "Portland OR, USA",
    45.5152,    
