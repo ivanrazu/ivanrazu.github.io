@@ -1,5 +1,14 @@
 var addressPoints = [
-
+  [
+   "San Jose, Costa Rica",
+   9.9281,
+   -84.0907
+  ],
+  [
+   "Gainesville FL, USA",
+   29.6520,
+   -82.3250
+  ],
   [
    "Tyler TX, USA",
    32.3513,
