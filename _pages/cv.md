@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CV_Ivan.pdf).
+You can find a pdf version of my CV [here]([https://ivanrazu.github.io/files/CV_Ivan.pdf](https://github.com/ivanrazu/ivanrazu.github.io/blob/master/files/CV_Ivan.pdf)).
 
 
 ## Education
