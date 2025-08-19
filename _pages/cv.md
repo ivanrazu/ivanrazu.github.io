@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CV_Ivan_UTTyler.pdf).
+You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CV_Ivan.pdf).
 
 
 ## Education
@@ -29,6 +29,7 @@ You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CV_I
 * Arts and Sciences Graduate Fellowship, University of Pittsburgh, 2014-2015.
   
 ## Publications
+* I. Ramirez-Zuniga, William B. MacLeod, Chilufya Chikoti, Geoffrey Kwenda, Rotem Lapidot, Christopher J. Gill, Amber M. Smith. Sequential Respiratory Syncytial Virus and Bacterial Infections in the Nasopharynx of Zambian Infants and Mothers. The Pediatric Infectious Disease Journal Volume 44 - Issue 8:717-727, (2025). [Link](https://journals.lww.com/pidj/abstract/2025/08000/sequential_respiratory_syncytial_virus_and.1.aspx).
 * A.P. Smith, L.C. Lane,  I. Ramirez-Zuniga, D.J. Moquin, P. Vogel, A.M. Smith (2022). Increased Virus Dissemination Leads to Enhanced Lung Injury But Not Inflammation During Influenza-Associated Secondary Bacterial Infection.FEMS Microbes, Volume 3, 2022, xtac022, [Link](https://academic.oup.com/femsmicrobes/article/doi/10.1093/femsmc/xtac022/6649651).
 * I. Ramirez Zuniga, Jonathan E. Rubin, David Swigon, Gilles Clermont, and Heinz Redl. A data-driven model of the role of energy in sepsis. Journal of Theoretical Biology. Volume 533. (2022).
 * I. Ramirez Zuniga, Jonathan E. Rubin, David Swigon, and Gilles Clermont. Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response. Journal of Theoretical Biology, 460. 101-114, (2019).
@@ -37,7 +38,11 @@ You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CV_I
 * I. Ramirez Zuniga. (2014). "Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection." Electronic Theses and Dissertations. Paper 2425. ([Link](https://dc.etsu.edu/etd/2425)).
 
 ## Talks and Poster Presentations
-
+* Talk: Modeling in-host Pathogen Dynamics, Department of Mathematics Colloquium at The University of Texas at Tyler, October 2024 .
+* Panelist in the Bioinformatics and Biostatistics Panel Discussion at UT Tyler, organized by the ACM Chapter, October 2024.
+* Panelist at the Texas Undergraduate Mathematics Conference (TUMC) panel discussion on graduate programs, October 2024.
+* Talk: "Surviving the Zombie Apocalyse with Math", Department of Mathematics, Undergraduate Seminar at The University of Texas at Tyler, October 2024.
+* Talk (Virtual): "Modeling the Energy Requirements of an Acute Immune Response during Sepsis". Laboratory for Systems Medicine, University of Florida, January 2024 .
 * Talk: “ Modeling the Dynamics of Alveolar Macrophages and Interferon Gamma During Influenza Infection ”. SIAM
 conference on applications of dynamical systems (DS23), Portland OR, May 2023.
 * Poster presentation: ”Sequential interactions between RSV and pneumococcus in the nasopharynx of Zambian infants
