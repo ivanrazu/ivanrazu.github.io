@@ -25,31 +25,14 @@ and generate/test hypotheses to be validated through further experiments.
 
 ## Projects
 
-### Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response.
+### Sequential Respiratory Syncytial Virus and Bacterial Infections in the Nasopharynx of Zambian Infants and Mothers
+We carried out a nested prospective study within a Zambian mother–infant birth cohort, tracking participants through the first 14 weeks of life. Nasopharyngeal samples were collected from both mothers and infants every two weeks. Our analysis focused on the sequence of RSV and bacterial detection, and how these patterns related to pathogen density and symptom severity.
 
-* Several studies have found a relation between sepsis and low levels of adenosine triphosphate (ATP) combined with overproduction of lactate and nitric oxide (NO). In this project we developed a system of ordinary differential equations to study the dynamics of the acute inflammatory response and its interactions with the production and demand of ATP. We also explored some altered metabolic states such as hypoglycemia, hyperglycemia, and hypoxia in the presence of sepsis obtaining consistent resuts with the literture.
-
-                                                                          
-<img src="/images/wiring_diagram_2.png" alt="drawing" width="400"/>    <img src="/images/bif_diagram (1).png" alt="drawing" width="400"/>
-
-(Left) Interactions between the eight variables of the system of equations in the model. P corresponds
-to pathogens, D tissue damage, N phagocytes, CA anti-inflammatory mediators, X nitric oxide, L lactate, and ATP
-adenosine triphosphate. (Right) Bifurcation diagram for model equations on. Equilibrium states are illustrated with
-red solid curves (stable), shown with dashed curves (unstable), or not shown at all if non-physiological. The three
-stable equilibrium states correspond to healthy, aseptic (infection is resolved but inflammation persists), and septic
-(infection and inflammation persist) states.
-
-Using our model we generated a set of virtual patients by introducing variability to sensitive parameters. Simulating the time courses of their inflammatory responses until reaching one of the model equilibrium states, healthy, aseptic, or septic and defining the time of death as the time at which tissue damage reaches certain threshold we classified patients between survivors and no survivors. 
-
-
-<img src="/images/maxD_P0_NORMAL.jpg" alt="drawing" width="400"/>    <img src="/images/maxD_P0_Trshld_NORMAL.jpg" alt="drawing" width="400"/>
-
-
-Representation of virtual subjects projected on the initial pathogen load ($P_0$) - pathogen growth rate ($k_{pg}$) plane (left) and projected on the $P_0$ - maximum damage vaule attained over the course of patient simulation (right).
+In infants, acquisition of <em>Streptococcus pneumoniae</em>  (SP) following RSV infection was linked to lower bacterial densities compared to SP infection alone. This effect was not observed for <em> Moraxella catarrhalis</em>, <em>Staphylococcus aureus</em>, or <em>Haemophilus influenzae</em>, nor was it seen in mothers. Furthermore, prior RSV infection did not accelerate bacterial acquisition. Our findings also indicate that pre-existing bacterial infection with any of these species did not significantly influence RSV viral loads. Finally, while antibiotic exposure in infants did not reduce overall bacterial density, those with SP-only infections who received antibiotics exhibited increased bacterial levels.
 
 ### A Data-driven Mathematical Study of the Role of Energy in Sepsis.
 
-* In a subsequent publication we further extended our model to include quantities that were measured from the blood of experimental
+* We further extended our previous model to include quantities that were measured from the blood of experimental
 subjects exposed to bacteria. By fitting model dynamics to experimental data, we derived
 parameter distributions corresponding to individual subjects’ responses as well as a parameter
 ensemble representing the full cohort of experimental subjects. We found important
@@ -71,3 +54,24 @@ death. Similarly, phagocyte activity remained elevated in non-survivors while ba
 survivor cohort
 
 
+### Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response.
+
+* Several studies have found a relation between sepsis and low levels of adenosine triphosphate (ATP) combined with overproduction of lactate and nitric oxide (NO). In this project we developed a system of ordinary differential equations to study the dynamics of the acute inflammatory response and its interactions with the production and demand of ATP. We also explored some altered metabolic states such as hypoglycemia, hyperglycemia, and hypoxia in the presence of sepsis obtaining consistent resuts with the literture.
+
+                                                                          
+<img src="/images/wiring_diagram_2.png" alt="drawing" width="400"/>    <img src="/images/bif_diagram (1).png" alt="drawing" width="400"/>
+
+(Left) Interactions between the eight variables of the system of equations in the model. P corresponds
+to pathogens, D tissue damage, N phagocytes, CA anti-inflammatory mediators, X nitric oxide, L lactate, and ATP
+adenosine triphosphate. (Right) Bifurcation diagram for model equations on. Equilibrium states are illustrated with
+red solid curves (stable), shown with dashed curves (unstable), or not shown at all if non-physiological. The three
+stable equilibrium states correspond to healthy, aseptic (infection is resolved but inflammation persists), and septic
+(infection and inflammation persist) states.
+
+Using our model we generated a set of virtual patients by introducing variability to sensitive parameters. Simulating the time courses of their inflammatory responses until reaching one of the model equilibrium states, healthy, aseptic, or septic and defining the time of death as the time at which tissue damage reaches certain threshold we classified patients between survivors and no survivors. 
+
+
+<img src="/images/maxD_P0_NORMAL.jpg" alt="drawing" width="400"/>    <img src="/images/maxD_P0_Trshld_NORMAL.jpg" alt="drawing" width="400"/>
+
+
+Representation of virtual subjects projected on the initial pathogen load ($P_0$) - pathogen growth rate ($k_{pg}$) plane (left) and projected on the $P_0$ - maximum damage vaule attained over the course of patient simulation (right).
