@@ -14,6 +14,6 @@ author_profile: true
 
 [4] I. **Ramirez-Zuniga, I.**, J.E. Rubin, D. Swigon, and G. Clermont.[**Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response.Journal of Theoretical Biology, 460, 101-114 (2019)**. ](https://www.sciencedirect.com/science/article/pii/S0022519318304120).
 
-[5] R. Brady, C. Pulez, **Ramirez-Zuniga, I.**, K. Larripa, M.S. Olufsen (2017). [**A coupled model exploring the cardiovascular response to an acute inflammatory event. Proc 5th Int Conf Comp Math Biomed Eng (CMBE)**](http://www.compbiomed.net/2017/cmbe-proceedings.htm).
+[5] R. Brady, C. Pulez, **Ramirez-Zuniga, I.**, K. Larripa, M.S. Olufsen (2017). [**A coupled model exploring the cardiovascular response to an acute inflammatory event. Proc 5th Int Conf Comp Math Biomed Eng (CMBE)**](https://compbiomed.net/wp-content/uploads/2025/02/CMBE17Vol1prepress_2227-9385.pdf).
 
 [6] I. **Ramirez-Zuniga, I.**. (2014). Electronic Theses and Dissertations. Paper 2425. [ **Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection**.](https://dc.etsu.edu/etd/2425).
