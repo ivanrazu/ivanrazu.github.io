@@ -38,6 +38,8 @@ You can find a pdf version of my CV [here](https://ivanrazu.github.io/files/CV_I
 * I. Ramirez Zuniga. (2014). "Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection." Electronic Theses and Dissertations. Paper 2425. ([Link](https://dc.etsu.edu/etd/2425)).
 
 ## Talks and Poster Presentations
+* Talk:  A Mechanistic Model of Inflammation in Invasive Pulmonary Aspergillosis: Linking Heme, Complement (C5a), and Tissue Injury. SIAM conference on the life sciences (LS26), Cleveland OH, July 2026.
+* Talk: Advances in statistical and mechanistic modeling of infectious diseases”. Department of Mathematics Colloquium at UT Tyler, October 2025.
 * Talk: Modeling in-host Pathogen Dynamics, Department of Mathematics Colloquium at The University of Texas at Tyler, October 2024 .
 * Panelist in the Bioinformatics and Biostatistics Panel Discussion at UT Tyler, organized by the ACM Chapter, October 2024.
 * Panelist at the Texas Undergraduate Mathematics Conference (TUMC) panel discussion on graduate programs, October 2024.
@@ -63,6 +65,13 @@ life sciences (LS22) (virtual), July 2022.
 * Poster presentation: "Proyecto 6x4 UEALC"at the Week of Methods to Reduce Dimension in Data Analysis at Centro de Investigaciones Matematicas , CIMAT, Guanajuato, Mexico.
   
 ## Attended Conferences, Workshops, and Summer Schools
+• Conference: SIAM conference on the life sciences (LS26), Cleveland OH, July 2026.
+• Workshop: Uncertainty Quantification for Mathematical Biology, ICERM RI, May 2025.
+• Conference: SIAM conference on applications of dynamical systems (DS23), Portland OR, May 2023.
+• Conference: ReSViNET Conference, Lisbon Portugal, Feb 2023.
+• Conference: (Virtual) SIAM conference on the life sciences (LS22) (virtual), July 2022.
+• Conference: (Virtual) 5th Workshop on Viral Dynamics, October, 2021.
+• Conference: (Virtual) Society for Mathematical Biology, Annual Meeting and Conference, June 2021
 * Joint Mathematics Meetings (JMM), Denver CO, January 2020.
 * Workshop: Summit on the Rules of Life at The Mathematical Biosciences Institute (MBI), Columbus OH, June 2019.
 * Biology and Medicine Through Mathematics Conference (BAMM), Virginia Commonwealth University, Richmond VA, May 2019.
