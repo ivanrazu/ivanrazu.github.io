@@ -24,4 +24,4 @@ author_profile: true
 
 [1] **Ramirez-Zuniga, I.** (2020). [**Mathematical Modeling of Energy Consumption in the Acute Inflammatory Response During Sepsis**](https://d-scholarship.pitt.edu/39664). Doctoral Dissertation, University of Pittsburgh.
 
-[2] **Ramirez-Zuniga, I.** (2014). Electronic Theses and Dissertations. Paper 2425. [**Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection**](https://dc.etsu.edu/etd/2425).
+[2] **Ramirez-Zuniga, I.** (2014). [**Mathematical Modeling of Immune Responses to Hepatitis C Virus Infection**](https://dc.etsu.edu/etd/2425). Master's Thesis, East Tennessee State University. Electronic Theses and Dissertations, Paper 2425.
